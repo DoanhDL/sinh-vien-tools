@@ -1,0 +1,1402 @@
+{
+  "id": "toeic-2023-02",
+  "year": 2023,
+  "form": 2,
+  "title": "TOEIC 2023 — Đề 02",
+  "description": "Đề luyện tập TOEIC mô phỏng năm 2023, Form 2 — 51 câu",
+  "timeLimit": 75,
+  "parts": [
+    "part1",
+    "part2",
+    "part3",
+    "part4",
+    "part5",
+    "part6",
+    "part7"
+  ],
+  "passages": [
+    {
+      "id": "toeic-2023-02-p6-passage-1",
+      "title": "Email — Office Relocation",
+      "content": "To: All Staff\nFrom: Human Resources\nSubject: Office Relocation\n\nOur office relocation to Park Avenue will take place on March 15. Complete packing by March 12. IT support will assist with computer setup on March 14. The current office closes at 5:00 P.M. on March 14. Normal hours resume March 16.\n\nJennifer Walsh\nHR Manager",
+      "questionIds": [
+        "toeic-2023-02-p6-q1",
+        "toeic-2023-02-p6-q2",
+        "toeic-2023-02-p6-q3",
+        "toeic-2023-02-p6-q4"
+      ]
+    },
+    {
+      "id": "toeic-2023-02-p6-passage-2",
+      "title": "Memo — Training Program",
+      "content": "MEMORANDUM\nTo: Department Heads\nFrom: Training Division\nDate: April 3\nRe: New Employee Training\n\nStarting next month, new employees must complete a two-day orientation. Sessions are held every Monday and Wednesday in Conference Room B. Notify Training at least one week before a new hire's start date.",
+      "questionIds": [
+        "toeic-2023-02-p6-q5",
+        "toeic-2023-02-p6-q6"
+      ]
+    },
+    {
+      "id": "toeic-2023-02-p7-passage-1",
+      "title": "Article — Remote Work Trends",
+      "content": "A survey by Global Workforce Institute found that 62% of companies offer remote work, up from 40% five years ago. Employee satisfaction rose 23% in organizations with flexible policies. Managers report challenges monitoring productivity. Experts predict hybrid models will be standard by 2030.",
+      "questionIds": [
+        "toeic-2023-02-p7-q1",
+        "toeic-2023-02-p7-q2",
+        "toeic-2023-02-p7-q3"
+      ]
+    },
+    {
+      "id": "toeic-2023-02-p7-passage-2",
+      "title": "Advertisement — CloudSync Pro",
+      "content": "CloudSync Pro offers secure cloud storage from $9.99/month for 100 GB. Features: hourly backup, real-time collaboration, 256-bit encryption, 24/7 support. Sign up before June 30 for three months free on annual plans. Visit www.cloudsyncpro.com.",
+      "questionIds": [
+        "toeic-2023-02-p7-q4",
+        "toeic-2023-02-p7-q5",
+        "toeic-2023-02-p7-q6"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "toeic-2023-02-p1-q1",
+      "part": "part1",
+      "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p1-q1.wav",
+      "transcript": "A. She is typing on a computer.",
+      "questionText": "Look at the picture. What is the woman doing?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) She is typing on a computer."
+        },
+        {
+          "id": "b",
+          "text": "(B) She is talking on the phone."
+        },
+        {
+          "id": "c",
+          "text": "(C) She is reading a document."
+        },
+        {
+          "id": "d",
+          "text": "(D) She is writing on a whiteboard."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "The woman is seated at a desk working on a laptop."
+    },
+    {
+      "id": "toeic-2023-02-p1-q2",
+      "part": "part1",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&h=400&fit=crop",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p1-q2.wav",
+      "transcript": "A. They are having a meeting.",
+      "questionText": "Look at the picture. What are the people doing?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) They are having a meeting."
+        },
+        {
+          "id": "b",
+          "text": "(B) They are eating lunch."
+        },
+        {
+          "id": "c",
+          "text": "(C) They are waiting in line."
+        },
+        {
+          "id": "d",
+          "text": "(D) They are playing sports."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Several people are seated around a conference table."
+    },
+    {
+      "id": "toeic-2023-02-p1-q3",
+      "part": "part1",
+      "imageUrl": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p1-q3.wav",
+      "transcript": "A. At a warehouse.",
+      "questionText": "Look at the picture. Where is this taking place?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) At a warehouse"
+        },
+        {
+          "id": "b",
+          "text": "(B) At a restaurant"
+        },
+        {
+          "id": "c",
+          "text": "(C) At a hospital"
+        },
+        {
+          "id": "d",
+          "text": "(D) At a school"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Shelves stacked with boxes indicate a warehouse."
+    },
+    {
+      "id": "toeic-2023-02-p1-q4",
+      "part": "part1",
+      "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p1-q4.wav",
+      "transcript": "A. A credit card.",
+      "questionText": "Look at the picture. What is the man holding?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) A credit card"
+        },
+        {
+          "id": "b",
+          "text": "(B) A newspaper"
+        },
+        {
+          "id": "c",
+          "text": "(C) A cup of coffee"
+        },
+        {
+          "id": "d",
+          "text": "(D) A mobile phone"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "The man is at a checkout counter making a payment."
+    },
+    {
+      "id": "toeic-2023-02-p1-q5",
+      "part": "part1",
+      "imageUrl": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&h=400&fit=crop",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p1-q5.wav",
+      "transcript": "C. A plane is taking off.",
+      "questionText": "Look at the picture. What is happening?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Passengers are boarding a plane."
+        },
+        {
+          "id": "b",
+          "text": "(B) Workers are loading luggage."
+        },
+        {
+          "id": "c",
+          "text": "(C) A plane is taking off."
+        },
+        {
+          "id": "d",
+          "text": "(D) Mechanics are repairing an engine."
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "The airplane is visible above the runway."
+    },
+    {
+      "id": "toeic-2023-02-p1-q6",
+      "part": "part1",
+      "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&h=400&fit=crop",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p1-q6.wav",
+      "transcript": "B. They are discussing a project.",
+      "questionText": "Look at the picture. What are the colleagues doing?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) They are presenting a report."
+        },
+        {
+          "id": "b",
+          "text": "(B) They are discussing a project."
+        },
+        {
+          "id": "c",
+          "text": "(C) They are having a coffee break."
+        },
+        {
+          "id": "d",
+          "text": "(D) They are signing documents."
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Two colleagues are pointing at a screen together."
+    },
+    {
+      "id": "toeic-2023-02-p2-q1",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q1.wav",
+      "transcript": "When does the meeting start?",
+      "questionText": "When does the meeting start?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) At nine o'clock."
+        },
+        {
+          "id": "b",
+          "text": "(B) In the conference room."
+        },
+        {
+          "id": "c",
+          "text": "(C) With the marketing team."
+        },
+        {
+          "id": "d",
+          "text": "(D) About the new project."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "'When' asks for time — answer with a time."
+    },
+    {
+      "id": "toeic-2023-02-p2-q2",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q2.wav",
+      "transcript": "Who is responsible for the report?",
+      "questionText": "Who is responsible for the report?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) It was finished yesterday."
+        },
+        {
+          "id": "b",
+          "text": "(B) Ms. Chen is."
+        },
+        {
+          "id": "c",
+          "text": "(C) On the third floor."
+        },
+        {
+          "id": "d",
+          "text": "(D) Very detailed."
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "'Who' requires a person as answer."
+    },
+    {
+      "id": "toeic-2023-02-p2-q3",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q3.wav",
+      "transcript": "Would you like to join us for lunch?",
+      "questionText": "Would you like to join us for lunch?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Yes, I'd love to."
+        },
+        {
+          "id": "b",
+          "text": "(B) At the cafeteria."
+        },
+        {
+          "id": "c",
+          "text": "(C) About thirty minutes."
+        },
+        {
+          "id": "d",
+          "text": "(D) The chicken sandwich."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Accept or decline an invitation."
+    },
+    {
+      "id": "toeic-2023-02-p2-q4",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q4.wav",
+      "transcript": "Where can I find the printer?",
+      "questionText": "Where can I find the printer?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Next to the supply cabinet."
+        },
+        {
+          "id": "b",
+          "text": "(B) It needs new ink."
+        },
+        {
+          "id": "c",
+          "text": "(C) Every morning."
+        },
+        {
+          "id": "d",
+          "text": "(D) The color copies."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "'Where' needs a location."
+    },
+    {
+      "id": "toeic-2023-02-p2-q5",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q5.wav",
+      "transcript": "How long will the training session last?",
+      "questionText": "How long will the training session last?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) In the main hall."
+        },
+        {
+          "id": "b",
+          "text": "(B) About two hours."
+        },
+        {
+          "id": "c",
+          "text": "(C) The HR department."
+        },
+        {
+          "id": "d",
+          "text": "(D) Very informative."
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "'How long' asks for duration."
+    },
+    {
+      "id": "toeic-2023-02-p2-q6",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q6.wav",
+      "transcript": "Why was the shipment delayed?",
+      "questionText": "Why was the shipment delayed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) By express delivery."
+        },
+        {
+          "id": "b",
+          "text": "(B) Because of bad weather."
+        },
+        {
+          "id": "c",
+          "text": "(C) To the warehouse."
+        },
+        {
+          "id": "d",
+          "text": "(D) Five hundred units."
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "'Why' asks for a reason."
+    },
+    {
+      "id": "toeic-2023-02-p2-q7",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q7.wav",
+      "transcript": "How much does the subscription cost?",
+      "questionText": "How much does the subscription cost?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Every month."
+        },
+        {
+          "id": "b",
+          "text": "(B) On the website."
+        },
+        {
+          "id": "c",
+          "text": "(C) Fifty dollars a year."
+        },
+        {
+          "id": "d",
+          "text": "(D) Credit card only."
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "'How much' asks for price."
+    },
+    {
+      "id": "toeic-2023-02-p2-q8",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q8.wav",
+      "transcript": "Shouldn't we call the client first?",
+      "questionText": "Shouldn't we call the client first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) That's a good idea."
+        },
+        {
+          "id": "b",
+          "text": "(B) At three o'clock."
+        },
+        {
+          "id": "c",
+          "text": "(C) The sales department."
+        },
+        {
+          "id": "d",
+          "text": "(D) A signed contract."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Respond to a suggestion."
+    },
+    {
+      "id": "toeic-2023-02-p2-q9",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q9.wav",
+      "transcript": "When is the deadline for the proposal?",
+      "questionText": "When is the deadline for the proposal?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) In the marketing folder."
+        },
+        {
+          "id": "b",
+          "text": "(B) This Friday at noon."
+        },
+        {
+          "id": "c",
+          "text": "(C) Mr. Patterson."
+        },
+        {
+          "id": "d",
+          "text": "(D) About twenty pages."
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Deadline question needs a date/time."
+    },
+    {
+      "id": "toeic-2023-02-p2-q10",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q10.wav",
+      "transcript": "Who will lead the orientation session?",
+      "questionText": "Who will lead the orientation session?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) In Conference Room A."
+        },
+        {
+          "id": "b",
+          "text": "(B) For two hours."
+        },
+        {
+          "id": "c",
+          "text": "(C) Ms. Rivera will."
+        },
+        {
+          "id": "d",
+          "text": "(D) All new hires."
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "'Who' needs a person's name."
+    },
+    {
+      "id": "toeic-2023-02-p2-q11",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q11.wav",
+      "transcript": "Where should I submit the expense form?",
+      "questionText": "Where should I submit the expense form?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) To the finance department."
+        },
+        {
+          "id": "b",
+          "text": "(B) By the end of the month."
+        },
+        {
+          "id": "c",
+          "text": "(C) Three receipts."
+        },
+        {
+          "id": "d",
+          "text": "(D) Mr. Kim approved it."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "'Where' needs a place or department."
+    },
+    {
+      "id": "toeic-2023-02-p2-q12",
+      "part": "part2",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p2-q12.wav",
+      "transcript": "How often are safety inspections conducted?",
+      "questionText": "How often are safety inspections conducted?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) In the factory."
+        },
+        {
+          "id": "b",
+          "text": "(B) By the safety team."
+        },
+        {
+          "id": "c",
+          "text": "(C) Very thoroughly."
+        },
+        {
+          "id": "d",
+          "text": "(D) Once every quarter."
+        }
+      ],
+      "correctChoiceId": "d",
+      "explanation": "'How often' asks for frequency."
+    },
+    {
+      "id": "toeic-2023-02-p3-q1",
+      "part": "part3",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p3-q1.wav",
+      "transcript": "Woman: The printer on the second floor stopped working again. Man: I'll use the one in marketing. Woman: Good idea. The presentation is at two.",
+      "questionText": "What problem does the man mention?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) The printer is broken."
+        },
+        {
+          "id": "b",
+          "text": "(B) The meeting was canceled."
+        },
+        {
+          "id": "c",
+          "text": "(C) The report is incomplete."
+        },
+        {
+          "id": "d",
+          "text": "(D) The office is too cold."
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "The printer stopped working."
+    },
+    {
+      "id": "toeic-2023-02-p3-q2",
+      "part": "part3",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p3-q2.wav",
+      "transcript": "Woman: The printer on the second floor stopped working again. Man: I'll use the one in marketing. Woman: Good idea. The presentation is at two.",
+      "questionText": "What will the woman probably do next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Call IT support"
+        },
+        {
+          "id": "b",
+          "text": "(B) Print documents elsewhere"
+        },
+        {
+          "id": "c",
+          "text": "(C) Reschedule the meeting"
+        },
+        {
+          "id": "d",
+          "text": "(D) Order a new printer"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "She'll use the marketing department printer."
+    },
+    {
+      "id": "toeic-2023-02-p3-q3",
+      "part": "part3",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p3-q3.wav",
+      "transcript": "Woman: The printer on the second floor stopped working again. Man: I'll use the one in marketing. Woman: Good idea. The presentation is at two.",
+      "questionText": "What time is the presentation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) 1:00 P.M."
+        },
+        {
+          "id": "b",
+          "text": "(B) 2:00 P.M."
+        },
+        {
+          "id": "c",
+          "text": "(C) 3:00 P.M."
+        },
+        {
+          "id": "d",
+          "text": "(D) 4:00 P.M."
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "The presentation is at two o'clock."
+    },
+    {
+      "id": "toeic-2023-02-p4-q1",
+      "part": "part4",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p4-q1.wav",
+      "transcript": "Welcome to today's webinar on workplace safety. Remember to report hazards immediately. Fire drills will be held every quarter. Certificates will be issued upon completion of the online module.",
+      "questionText": "What is the topic of the webinar?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Workplace safety"
+        },
+        {
+          "id": "b",
+          "text": "(B) Tax preparation"
+        },
+        {
+          "id": "c",
+          "text": "(C) Customer service"
+        },
+        {
+          "id": "d",
+          "text": "(D) Time management"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "The webinar is on workplace safety."
+    },
+    {
+      "id": "toeic-2023-02-p4-q2",
+      "part": "part4",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p4-q2.wav",
+      "transcript": "Welcome to today's webinar on workplace safety. Remember to report hazards immediately. Fire drills will be held every quarter. Certificates will be issued upon completion of the online module.",
+      "questionText": "How often are fire drills held?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Monthly"
+        },
+        {
+          "id": "b",
+          "text": "(B) Twice a year"
+        },
+        {
+          "id": "c",
+          "text": "(C) Every quarter"
+        },
+        {
+          "id": "d",
+          "text": "(D) Once a year"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "Fire drills are held every quarter."
+    },
+    {
+      "id": "toeic-2023-02-p4-q3",
+      "part": "part4",
+      "audioUrl": "/audio/toeic/toeic-2023-02/toeic-2023-02-p4-q3.wav",
+      "transcript": "Welcome to today's webinar on workplace safety. Remember to report hazards immediately. Fire drills will be held every quarter. Certificates will be issued upon completion of the online module.",
+      "questionText": "What do participants receive?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) A bonus"
+        },
+        {
+          "id": "b",
+          "text": "(B) A new ID badge"
+        },
+        {
+          "id": "c",
+          "text": "(C) Free lunch"
+        },
+        {
+          "id": "d",
+          "text": "(D) A certificate"
+        }
+      ],
+      "correctChoiceId": "d",
+      "explanation": "Certificates are issued upon completion."
+    },
+    {
+      "id": "toeic-2023-02-p5-q1",
+      "part": "part5",
+      "questionText": "_____ the rain, the outdoor event was moved indoors.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Although"
+        },
+        {
+          "id": "b",
+          "text": "(B) Because of"
+        },
+        {
+          "id": "c",
+          "text": "(C) Despite"
+        },
+        {
+          "id": "d",
+          "text": "(D) Unless"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Because of + noun phrase."
+    },
+    {
+      "id": "toeic-2023-02-p5-q2",
+      "part": "part5",
+      "questionText": "The new policy will take _____ next month.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) effect"
+        },
+        {
+          "id": "b",
+          "text": "(B) affect"
+        },
+        {
+          "id": "c",
+          "text": "(C) effective"
+        },
+        {
+          "id": "d",
+          "text": "(D) effectively"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Take effect = become active."
+    },
+    {
+      "id": "toeic-2023-02-p5-q3",
+      "part": "part5",
+      "questionText": "She has worked here _____ five years.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) since"
+        },
+        {
+          "id": "b",
+          "text": "(B) during"
+        },
+        {
+          "id": "c",
+          "text": "(C) for"
+        },
+        {
+          "id": "d",
+          "text": "(D) while"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "For + duration."
+    },
+    {
+      "id": "toeic-2023-02-p5-q4",
+      "part": "part5",
+      "questionText": "The company _____ a new product line next quarter.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) launch"
+        },
+        {
+          "id": "b",
+          "text": "(B) launches"
+        },
+        {
+          "id": "c",
+          "text": "(C) will launch"
+        },
+        {
+          "id": "d",
+          "text": "(D) launching"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "'Next quarter' = future → will launch."
+    },
+    {
+      "id": "toeic-2023-02-p5-q5",
+      "part": "part5",
+      "questionText": "All employees must _____ their expense reports by Friday.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) submit"
+        },
+        {
+          "id": "b",
+          "text": "(B) submits"
+        },
+        {
+          "id": "c",
+          "text": "(C) submitted"
+        },
+        {
+          "id": "d",
+          "text": "(D) submitting"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Modal 'must' + base verb."
+    },
+    {
+      "id": "toeic-2023-02-p5-q6",
+      "part": "part5",
+      "questionText": "Ms. Park is responsible _____ coordinating the event.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) for"
+        },
+        {
+          "id": "b",
+          "text": "(B) to"
+        },
+        {
+          "id": "c",
+          "text": "(C) with"
+        },
+        {
+          "id": "d",
+          "text": "(D) at"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Collocation: responsible for."
+    },
+    {
+      "id": "toeic-2023-02-p5-q7",
+      "part": "part5",
+      "questionText": "The meeting was postponed _____ the director was unavailable.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) because"
+        },
+        {
+          "id": "b",
+          "text": "(B) because of"
+        },
+        {
+          "id": "c",
+          "text": "(C) although"
+        },
+        {
+          "id": "d",
+          "text": "(D) despite"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "'Because' + clause."
+    },
+    {
+      "id": "toeic-2023-02-p5-q8",
+      "part": "part5",
+      "questionText": "Please make sure the documents are _____ before noon.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) approve"
+        },
+        {
+          "id": "b",
+          "text": "(B) approving"
+        },
+        {
+          "id": "c",
+          "text": "(C) approved"
+        },
+        {
+          "id": "d",
+          "text": "(D) approval"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "Passive: are approved."
+    },
+    {
+      "id": "toeic-2023-02-p5-q9",
+      "part": "part5",
+      "questionText": "The warehouse stores more than 10,000 _____ of merchandise.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) item"
+        },
+        {
+          "id": "b",
+          "text": "(B) items"
+        },
+        {
+          "id": "c",
+          "text": "(C) item's"
+        },
+        {
+          "id": "d",
+          "text": "(D) items'"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Plural after number > 1."
+    },
+    {
+      "id": "toeic-2023-02-p5-q10",
+      "part": "part5",
+      "questionText": "Mr. Tanaka asked _____ the contract be reviewed by legal counsel.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) what"
+        },
+        {
+          "id": "b",
+          "text": "(B) that"
+        },
+        {
+          "id": "c",
+          "text": "(C) which"
+        },
+        {
+          "id": "d",
+          "text": "(D) who"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Asked that + subjunctive."
+    },
+    {
+      "id": "toeic-2023-02-p5-q11",
+      "part": "part5",
+      "questionText": "Neither the manager nor the assistants _____ available today.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) is"
+        },
+        {
+          "id": "b",
+          "text": "(B) are"
+        },
+        {
+          "id": "c",
+          "text": "(C) was"
+        },
+        {
+          "id": "d",
+          "text": "(D) has been"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Verb agrees with nearer subject 'assistants'."
+    },
+    {
+      "id": "toeic-2023-02-p5-q12",
+      "part": "part5",
+      "questionText": "We look forward to _____ from you soon.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) hear"
+        },
+        {
+          "id": "b",
+          "text": "(B) heard"
+        },
+        {
+          "id": "c",
+          "text": "(C) hearing"
+        },
+        {
+          "id": "d",
+          "text": "(D) hears"
+        }
+      ],
+      "correctChoiceId": "d",
+      "explanation": "Look forward to + gerund."
+    },
+    {
+      "id": "toeic-2023-02-p5-q13",
+      "part": "part5",
+      "questionText": "The seminar was _____ informative that many attendees stayed for questions.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) so"
+        },
+        {
+          "id": "b",
+          "text": "(B) such"
+        },
+        {
+          "id": "c",
+          "text": "(C) very"
+        },
+        {
+          "id": "d",
+          "text": "(D) too"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "So + adjective + that..."
+    },
+    {
+      "id": "toeic-2023-02-p5-q14",
+      "part": "part5",
+      "questionText": "Employees are required _____ safety goggles in the laboratory.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) wear"
+        },
+        {
+          "id": "b",
+          "text": "(B) wearing"
+        },
+        {
+          "id": "c",
+          "text": "(C) to wear"
+        },
+        {
+          "id": "d",
+          "text": "(D) wore"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "Required to + infinitive."
+    },
+    {
+      "id": "toeic-2023-02-p5-q15",
+      "part": "part5",
+      "questionText": "The invoice _____ to the accounting department yesterday.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) sends"
+        },
+        {
+          "id": "b",
+          "text": "(B) sent"
+        },
+        {
+          "id": "c",
+          "text": "(C) was sent"
+        },
+        {
+          "id": "d",
+          "text": "(D) sending"
+        }
+      ],
+      "correctChoiceId": "d",
+      "explanation": "Passive past: was sent."
+    },
+    {
+      "id": "toeic-2023-02-p6-q1",
+      "part": "part6",
+      "passageId": "toeic-2023-02-p6-passage-1",
+      "questionText": "When will the relocation take place?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) March 12"
+        },
+        {
+          "id": "b",
+          "text": "(B) March 14"
+        },
+        {
+          "id": "c",
+          "text": "(C) March 15"
+        },
+        {
+          "id": "d",
+          "text": "(D) March 16"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "Relocation is on March 15."
+    },
+    {
+      "id": "toeic-2023-02-p6-q2",
+      "part": "part6",
+      "passageId": "toeic-2023-02-p6-passage-1",
+      "questionText": "What should employees do by March 12?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Set up computers"
+        },
+        {
+          "id": "b",
+          "text": "(B) Complete packing"
+        },
+        {
+          "id": "c",
+          "text": "(C) Contact HR"
+        },
+        {
+          "id": "d",
+          "text": "(D) Attend orientation"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Complete packing by March 12."
+    },
+    {
+      "id": "toeic-2023-02-p6-q3",
+      "part": "part6",
+      "passageId": "toeic-2023-02-p6-passage-1",
+      "questionText": "When do normal hours resume?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) March 14"
+        },
+        {
+          "id": "b",
+          "text": "(B) March 15"
+        },
+        {
+          "id": "c",
+          "text": "(C) March 16"
+        },
+        {
+          "id": "d",
+          "text": "(D) March 17"
+        }
+      ],
+      "correctChoiceId": "d",
+      "explanation": "Normal hours resume March 16."
+    },
+    {
+      "id": "toeic-2023-02-p6-q4",
+      "part": "part6",
+      "passageId": "toeic-2023-02-p6-passage-1",
+      "questionText": "Who sent the email?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Human Resources"
+        },
+        {
+          "id": "b",
+          "text": "(B) IT support"
+        },
+        {
+          "id": "c",
+          "text": "(C) The building manager"
+        },
+        {
+          "id": "d",
+          "text": "(D) The finance team"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "From: Human Resources."
+    },
+    {
+      "id": "toeic-2023-02-p6-q5",
+      "part": "part6",
+      "passageId": "toeic-2023-02-p6-passage-2",
+      "questionText": "How long is the orientation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) One day"
+        },
+        {
+          "id": "b",
+          "text": "(B) Two days"
+        },
+        {
+          "id": "c",
+          "text": "(C) One week"
+        },
+        {
+          "id": "d",
+          "text": "(D) Two weeks"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Two-day orientation."
+    },
+    {
+      "id": "toeic-2023-02-p6-q6",
+      "part": "part6",
+      "passageId": "toeic-2023-02-p6-passage-2",
+      "questionText": "What should department heads do?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Conduct sessions"
+        },
+        {
+          "id": "b",
+          "text": "(B) Issue certificates"
+        },
+        {
+          "id": "c",
+          "text": "(C) Notify Training in advance"
+        },
+        {
+          "id": "d",
+          "text": "(D) Reserve Room A"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "Notify Training one week before start date."
+    },
+    {
+      "id": "toeic-2023-02-p7-q1",
+      "part": "part7",
+      "passageId": "toeic-2023-02-p7-passage-1",
+      "questionText": "What is the main topic?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) The growth of remote work"
+        },
+        {
+          "id": "b",
+          "text": "(B) Employee training"
+        },
+        {
+          "id": "c",
+          "text": "(C) International expansion"
+        },
+        {
+          "id": "d",
+          "text": "(D) Safety regulations"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Article discusses remote work growth."
+    },
+    {
+      "id": "toeic-2023-02-p7-q2",
+      "part": "part7",
+      "passageId": "toeic-2023-02-p7-passage-1",
+      "questionText": "What percentage offer remote work?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) 23%"
+        },
+        {
+          "id": "b",
+          "text": "(B) 40%"
+        },
+        {
+          "id": "c",
+          "text": "(C) 62%"
+        },
+        {
+          "id": "d",
+          "text": "(D) 75%"
+        }
+      ],
+      "correctChoiceId": "c",
+      "explanation": "62% of companies offer remote work."
+    },
+    {
+      "id": "toeic-2023-02-p7-q3",
+      "part": "part7",
+      "passageId": "toeic-2023-02-p7-passage-1",
+      "questionText": "What will be standard by 2030?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Fully remote work"
+        },
+        {
+          "id": "b",
+          "text": "(B) Hybrid work models"
+        },
+        {
+          "id": "c",
+          "text": "(C) Four-day weeks"
+        },
+        {
+          "id": "d",
+          "text": "(D) Office-only policies"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Hybrid models will be standard."
+    },
+    {
+      "id": "toeic-2023-02-p7-q4",
+      "part": "part7",
+      "passageId": "toeic-2023-02-p7-passage-2",
+      "questionText": "What is CloudSync Pro?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Project management tool"
+        },
+        {
+          "id": "b",
+          "text": "(B) Cloud storage service"
+        },
+        {
+          "id": "c",
+          "text": "(C) Video conferencing app"
+        },
+        {
+          "id": "d",
+          "text": "(D) Accounting software"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Secure cloud storage service."
+    },
+    {
+      "id": "toeic-2023-02-p7-q5",
+      "part": "part7",
+      "passageId": "toeic-2023-02-p7-passage-2",
+      "questionText": "What special offer is mentioned?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Free laptop"
+        },
+        {
+          "id": "b",
+          "text": "(B) Three months free on annual plans"
+        },
+        {
+          "id": "c",
+          "text": "(C) Unlimited storage"
+        },
+        {
+          "id": "d",
+          "text": "(D) 50% discount"
+        }
+      ],
+      "correctChoiceId": "b",
+      "explanation": "Three months free on annual plans."
+    },
+    {
+      "id": "toeic-2023-02-p7-q6",
+      "part": "part7",
+      "passageId": "toeic-2023-02-p7-passage-2",
+      "questionText": "How often are files backed up?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "(A) Every hour"
+        },
+        {
+          "id": "b",
+          "text": "(B) Every day"
+        },
+        {
+          "id": "c",
+          "text": "(C) Every week"
+        },
+        {
+          "id": "d",
+          "text": "(D) Every month"
+        }
+      ],
+      "correctChoiceId": "a",
+      "explanation": "Hourly backup."
+    }
+  ]
+}

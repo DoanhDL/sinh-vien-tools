@@ -1,0 +1,257 @@
+{
+  "topic": "dining",
+  "label": "Dining",
+  "icon": "🍽️",
+  "cards": [
+    {
+      "id": "v-dining-1",
+      "word": "reservation",
+      "phonetic": "/ˌrezərˈveɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "đặt bàn",
+      "exampleSentence": "Make a reservation for eight.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/reservation.wav"
+    },
+    {
+      "id": "v-dining-2",
+      "word": "appetizer",
+      "phonetic": "/ˈæpɪtaɪzər/",
+      "partOfSpeech": "noun",
+      "meaning": "món khai vị",
+      "exampleSentence": "We ordered appetizers to share.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/appetizer.wav"
+    },
+    {
+      "id": "v-dining-3",
+      "word": "entree",
+      "phonetic": "/ˈɒntreɪ/",
+      "partOfSpeech": "noun",
+      "meaning": "món chính",
+      "exampleSentence": "The entree includes two sides.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/entree.wav"
+    },
+    {
+      "id": "v-dining-4",
+      "word": "beverage",
+      "phonetic": "/ˈbevərɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "đồ uống",
+      "exampleSentence": "Beverages are refilled free.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/beverage.wav"
+    },
+    {
+      "id": "v-dining-5",
+      "word": "gratuity",
+      "phonetic": "/ɡrəˈtuːəti/",
+      "partOfSpeech": "noun",
+      "meaning": "tiền boa",
+      "exampleSentence": "Gratuity is included for large parties.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/gratuity.wav"
+    },
+    {
+      "id": "v-dining-6",
+      "word": "catering",
+      "phonetic": "/ˈkeɪtərɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "dịch vụ ăn uống",
+      "exampleSentence": "Catering handles the conference lunch.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/catering.wav"
+    },
+    {
+      "id": "v-dining-7",
+      "word": "buffet",
+      "phonetic": "/bəˈfeɪ/",
+      "partOfSpeech": "noun",
+      "meaning": "tiệc tự chọn",
+      "exampleSentence": "The buffet opens at noon.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/buffet.wav"
+    },
+    {
+      "id": "v-dining-8",
+      "word": "dietary",
+      "phonetic": "/ˈdaɪəteri/",
+      "partOfSpeech": "adjective",
+      "meaning": "ăn kiêng",
+      "exampleSentence": "Note any dietary restrictions.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/dietary.wav"
+    },
+    {
+      "id": "v-dining-9",
+      "word": "complimentary",
+      "phonetic": "/ˌkɒmplɪˈmentəri/",
+      "partOfSpeech": "adjective",
+      "meaning": "miễn phí",
+      "exampleSentence": "Enjoy a complimentary dessert.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/complimentary.wav"
+    },
+    {
+      "id": "v-dining-10",
+      "word": "specialty",
+      "phonetic": "/ˈspeʃəlti/",
+      "partOfSpeech": "noun",
+      "meaning": "đặc sản",
+      "exampleSentence": "Try the chef's specialty.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/specialty.wav"
+    },
+    {
+      "id": "v-dining-11",
+      "word": "seasonal",
+      "phonetic": "/ˈsiːzənl/",
+      "partOfSpeech": "adjective",
+      "meaning": "theo mùa",
+      "exampleSentence": "Seasonal menu items change monthly.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/seasonal.wav"
+    },
+    {
+      "id": "v-dining-12",
+      "word": "refill",
+      "phonetic": "/riːˈfɪl/",
+      "partOfSpeech": "noun",
+      "meaning": "đổ thêm",
+      "exampleSentence": "Ask for a coffee refill.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/refill.wav"
+    },
+    {
+      "id": "v-dining-13",
+      "word": "takeout",
+      "phonetic": "/ˈteɪkaʊt/",
+      "partOfSpeech": "noun",
+      "meaning": "mang đi",
+      "exampleSentence": "Order takeout online.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/takeout.wav"
+    },
+    {
+      "id": "v-dining-14",
+      "word": "banquet",
+      "phonetic": "/ˈbæŋkwɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "tiệc lớn",
+      "exampleSentence": "The banquet hall seats 200.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/banquet.wav"
+    },
+    {
+      "id": "v-dining-15",
+      "word": "sommelier",
+      "phonetic": "/ˌsʌməlˈjeɪ/",
+      "partOfSpeech": "noun",
+      "meaning": "chuyên gia rượu",
+      "exampleSentence": "The sommelier recommended a wine.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/sommelier.wav"
+    },
+    {
+      "id": "v-dining-16",
+      "word": "gluten-free",
+      "phonetic": "/ˈɡluːtn friː/",
+      "partOfSpeech": "adjective",
+      "meaning": "không gluten",
+      "exampleSentence": "We offer gluten-free options.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/gluten-free.wav"
+    },
+    {
+      "id": "v-dining-17",
+      "word": "portion",
+      "phonetic": "/ˈpɔːrʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "khẩu phần",
+      "exampleSentence": "Portion sizes are generous.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/portion.wav"
+    },
+    {
+      "id": "v-dining-18",
+      "word": "cutlery",
+      "phonetic": "/ˈkʌtləri/",
+      "partOfSpeech": "noun",
+      "meaning": "dao nĩa",
+      "exampleSentence": "Sterilized cutlery is provided.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/cutlery.wav"
+    },
+    {
+      "id": "v-dining-19",
+      "word": "patron",
+      "phonetic": "/ˈpeɪtrən/",
+      "partOfSpeech": "noun",
+      "meaning": "khách quen",
+      "exampleSentence": "Regular patrons get discounts.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/patron.wav"
+    },
+    {
+      "id": "v-dining-20",
+      "word": "maitre d",
+      "phonetic": "/ˌmeɪtrə ˈdiː/",
+      "partOfSpeech": "noun",
+      "meaning": "quản gia nhà hàng",
+      "exampleSentence": "The maitre d greeted us.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/maitre-d.wav"
+    },
+    {
+      "id": "v-dining-21",
+      "word": "a la carte",
+      "phonetic": "/ˌɑː lə ˈkɑːrt/",
+      "partOfSpeech": "adverb",
+      "meaning": "gọi món riêng",
+      "exampleSentence": "Order a la carte or from the set menu.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/a-la-carte.wav"
+    },
+    {
+      "id": "v-dining-22",
+      "word": "house wine",
+      "phonetic": "/haʊs waɪn/",
+      "partOfSpeech": "noun",
+      "meaning": "rượu của nhà hàng",
+      "exampleSentence": "Try the house wine.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/house-wine.wav"
+    },
+    {
+      "id": "v-dining-23",
+      "word": "food poisoning",
+      "phonetic": "/fuːd ˈpɔɪzənɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "ngộ độc thực phẩm",
+      "exampleSentence": "Report suspected food poisoning.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/food-poisoning.wav"
+    },
+    {
+      "id": "v-dining-24",
+      "word": "vegan",
+      "phonetic": "/ˈviːɡən/",
+      "partOfSpeech": "adjective",
+      "meaning": "thuần chay",
+      "exampleSentence": "Vegan dishes are marked on the menu.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/vegan.wav"
+    },
+    {
+      "id": "v-dining-25",
+      "word": "checkout",
+      "phonetic": "/ˈtʃekaʊt/",
+      "partOfSpeech": "noun",
+      "meaning": "thanh toán",
+      "exampleSentence": "Pay at checkout by the door.",
+      "topic": "dining",
+      "audioUrl": "/audio/vocab/dining/checkout.wav"
+    }
+  ]
+}

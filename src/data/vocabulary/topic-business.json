@@ -1,0 +1,257 @@
+{
+  "topic": "business",
+  "label": "Business",
+  "icon": "💼",
+  "cards": [
+    {
+      "id": "v-business-1",
+      "word": "revenue",
+      "phonetic": "/ˈrevənjuː/",
+      "partOfSpeech": "noun",
+      "meaning": "doanh thu",
+      "exampleSentence": "The company's revenue increased by 15%.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/revenue.wav"
+    },
+    {
+      "id": "v-business-2",
+      "word": "negotiate",
+      "phonetic": "/nɪˈɡoʊʃieɪt/",
+      "partOfSpeech": "verb",
+      "meaning": "đàm phán",
+      "exampleSentence": "We need to negotiate better terms.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/negotiate.wav"
+    },
+    {
+      "id": "v-business-3",
+      "word": "deadline",
+      "phonetic": "/ˈdedlaɪn/",
+      "partOfSpeech": "noun",
+      "meaning": "hạn chót",
+      "exampleSentence": "The deadline is next Friday.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/deadline.wav"
+    },
+    {
+      "id": "v-business-4",
+      "word": "profitable",
+      "phonetic": "/ˈprɒfɪtəbl/",
+      "partOfSpeech": "adjective",
+      "meaning": "có lợi nhuận",
+      "exampleSentence": "The product line has been profitable.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/profitable.wav"
+    },
+    {
+      "id": "v-business-5",
+      "word": "merger",
+      "phonetic": "/ˈmɜːrdʒər/",
+      "partOfSpeech": "noun",
+      "meaning": "sáp nhập",
+      "exampleSentence": "The merger created the largest bank.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/merger.wav"
+    },
+    {
+      "id": "v-business-6",
+      "word": "inventory",
+      "phonetic": "/ˈɪnvəntɔːri/",
+      "partOfSpeech": "noun",
+      "meaning": "hàng tồn kho",
+      "exampleSentence": "Check inventory before ordering.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/inventory.wav"
+    },
+    {
+      "id": "v-business-7",
+      "word": "stakeholder",
+      "phonetic": "/ˈsteɪkhoʊldər/",
+      "partOfSpeech": "noun",
+      "meaning": "bên liên quan",
+      "exampleSentence": "All stakeholders were notified.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/stakeholder.wav"
+    },
+    {
+      "id": "v-business-8",
+      "word": "outsource",
+      "phonetic": "/ˈaʊtsɔːrs/",
+      "partOfSpeech": "verb",
+      "meaning": "thuê ngoài",
+      "exampleSentence": "They outsourced IT support.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/outsource.wav"
+    },
+    {
+      "id": "v-business-9",
+      "word": "quarterly",
+      "phonetic": "/ˈkwɔːrtərli/",
+      "partOfSpeech": "adjective",
+      "meaning": "hàng quý",
+      "exampleSentence": "Quarterly earnings exceeded expectations.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/quarterly.wav"
+    },
+    {
+      "id": "v-business-10",
+      "word": "acquisition",
+      "phonetic": "/ˌækwɪˈzɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "mua lại",
+      "exampleSentence": "The acquisition was finalized in March.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/acquisition.wav"
+    },
+    {
+      "id": "v-business-11",
+      "word": "subsidiary",
+      "phonetic": "/səbˈsɪdieri/",
+      "partOfSpeech": "noun",
+      "meaning": "công ty con",
+      "exampleSentence": "The subsidiary operates in Asia.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/subsidiary.wav"
+    },
+    {
+      "id": "v-business-12",
+      "word": "turnover",
+      "phonetic": "/ˈtɜːrnoʊvər/",
+      "partOfSpeech": "noun",
+      "meaning": "doanh số / tỷ lệ nghỉ việc",
+      "exampleSentence": "Annual turnover reached $2 million.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/turnover.wav"
+    },
+    {
+      "id": "v-business-13",
+      "word": "liability",
+      "phonetic": "/ˌlaɪəˈbɪləti/",
+      "partOfSpeech": "noun",
+      "meaning": "trách nhiệm pháp lý",
+      "exampleSentence": "The company reduced its liabilities.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/liability.wav"
+    },
+    {
+      "id": "v-business-14",
+      "word": "dividend",
+      "phonetic": "/ˈdɪvɪdend/",
+      "partOfSpeech": "noun",
+      "meaning": "cổ tức",
+      "exampleSentence": "Shareholders received a dividend.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/dividend.wav"
+    },
+    {
+      "id": "v-business-15",
+      "word": "franchise",
+      "phonetic": "/ˈfræntʃaɪz/",
+      "partOfSpeech": "noun",
+      "meaning": "nhượng quyền",
+      "exampleSentence": "They opened a franchise in Hanoi.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/franchise.wav"
+    },
+    {
+      "id": "v-business-16",
+      "word": "benchmark",
+      "phonetic": "/ˈbentʃmɑːrk/",
+      "partOfSpeech": "noun",
+      "meaning": "chuẩn so sánh",
+      "exampleSentence": "Set a benchmark for performance.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/benchmark.wav"
+    },
+    {
+      "id": "v-business-17",
+      "word": "compliance",
+      "phonetic": "/kəmˈplaɪəns/",
+      "partOfSpeech": "noun",
+      "meaning": "tuân thủ",
+      "exampleSentence": "Ensure compliance with regulations.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/compliance.wav"
+    },
+    {
+      "id": "v-business-18",
+      "word": "overhead",
+      "phonetic": "/ˈoʊvərhed/",
+      "partOfSpeech": "noun",
+      "meaning": "chi phí hoạt động",
+      "exampleSentence": "Overhead costs rose this year.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/overhead.wav"
+    },
+    {
+      "id": "v-business-19",
+      "word": "procurement",
+      "phonetic": "/prəˈkjʊrmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "mua sắm",
+      "exampleSentence": "The procurement team found savings.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/procurement.wav"
+    },
+    {
+      "id": "v-business-20",
+      "word": "scalable",
+      "phonetic": "/ˈskeɪləbl/",
+      "partOfSpeech": "adjective",
+      "meaning": "có thể mở rộng",
+      "exampleSentence": "The solution is highly scalable.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/scalable.wav"
+    },
+    {
+      "id": "v-business-21",
+      "word": "synergy",
+      "phonetic": "/ˈsɪnərdʒi/",
+      "partOfSpeech": "noun",
+      "meaning": "hiệp lực",
+      "exampleSentence": "The merger created synergy.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/synergy.wav"
+    },
+    {
+      "id": "v-business-22",
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "partOfSpeech": "verb",
+      "meaning": "tận dụng",
+      "exampleSentence": "Leverage technology to grow.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/leverage.wav"
+    },
+    {
+      "id": "v-business-23",
+      "word": "portfolio",
+      "phonetic": "/pɔːrtˈfoʊlioʊ/",
+      "partOfSpeech": "noun",
+      "meaning": "danh mục đầu tư",
+      "exampleSentence": "Diversify your investment portfolio.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/portfolio.wav"
+    },
+    {
+      "id": "v-business-24",
+      "word": "amortize",
+      "phonetic": "/əˈmɔːrtaɪz/",
+      "partOfSpeech": "verb",
+      "meaning": "khấu hao",
+      "exampleSentence": "Amortize the loan over ten years.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/amortize.wav"
+    },
+    {
+      "id": "v-business-25",
+      "word": "fiduciary",
+      "phonetic": "/fɪˈduːʃieri/",
+      "partOfSpeech": "adjective",
+      "meaning": "ủy thác",
+      "exampleSentence": "He has a fiduciary duty to clients.",
+      "topic": "business",
+      "audioUrl": "/audio/vocab/business/fiduciary.wav"
+    }
+  ]
+}

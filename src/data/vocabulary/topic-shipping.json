@@ -1,0 +1,257 @@
+{
+  "topic": "shipping",
+  "label": "Shipping",
+  "icon": "🚢",
+  "cards": [
+    {
+      "id": "v-shipping-1",
+      "word": "freight",
+      "phonetic": "/freɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "hàng hóa vận chuyển",
+      "exampleSentence": "Freight arrives tomorrow.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/freight.wav"
+    },
+    {
+      "id": "v-shipping-2",
+      "word": "customs clearance",
+      "phonetic": "/ˈkʌstəmz ˈklɪərəns/",
+      "partOfSpeech": "noun",
+      "meaning": "thông quan",
+      "exampleSentence": "Customs clearance was delayed.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/customs-clearance.wav"
+    },
+    {
+      "id": "v-shipping-3",
+      "word": "bill of lading",
+      "phonetic": "/bɪl əv ˈleɪdɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "vận đơn",
+      "exampleSentence": "Sign the bill of lading.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/bill-of-lading.wav"
+    },
+    {
+      "id": "v-shipping-4",
+      "word": "container",
+      "phonetic": "/kənˈteɪnər/",
+      "partOfSpeech": "noun",
+      "meaning": "container",
+      "exampleSentence": "Load the container by Friday.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/container.wav"
+    },
+    {
+      "id": "v-shipping-5",
+      "word": "dispatch",
+      "phonetic": "/dɪˈspætʃ/",
+      "partOfSpeech": "verb",
+      "meaning": "gửi đi",
+      "exampleSentence": "Dispatch the order today.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/dispatch.wav"
+    },
+    {
+      "id": "v-shipping-6",
+      "word": "tracking number",
+      "phonetic": "/ˈtrækɪŋ ˈnʌmbər/",
+      "partOfSpeech": "noun",
+      "meaning": "mã vận đơn",
+      "exampleSentence": "Use the tracking number online.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/tracking-number.wav"
+    },
+    {
+      "id": "v-shipping-7",
+      "word": "tariff",
+      "phonetic": "/ˈtærɪf/",
+      "partOfSpeech": "noun",
+      "meaning": "thuế quan",
+      "exampleSentence": "Tariffs increased on imports.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/tariff.wav"
+    },
+    {
+      "id": "v-shipping-8",
+      "word": "consignment",
+      "phonetic": "/kənˈsaɪnmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "lô hàng ký gửi",
+      "exampleSentence": "The consignment arrived intact.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/consignment.wav"
+    },
+    {
+      "id": "v-shipping-9",
+      "word": "port of entry",
+      "phonetic": "/pɔːrt əv ˈentri/",
+      "partOfSpeech": "noun",
+      "meaning": "cảng nhập khẩu",
+      "exampleSentence": "Goods enter at the port of entry.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/port-of-entry.wav"
+    },
+    {
+      "id": "v-shipping-10",
+      "word": "warehousing",
+      "phonetic": "/ˈwerhaʊzɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "lưu kho",
+      "exampleSentence": "Warehousing fees apply.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/warehousing.wav"
+    },
+    {
+      "id": "v-shipping-11",
+      "word": "carrier",
+      "phonetic": "/ˈkæriər/",
+      "partOfSpeech": "noun",
+      "meaning": "đơn vị vận chuyển",
+      "exampleSentence": "The carrier picked up the pallet.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/carrier.wav"
+    },
+    {
+      "id": "v-shipping-12",
+      "word": "hazardous goods",
+      "phonetic": "/ˈhæzərdəs ɡʊdz/",
+      "partOfSpeech": "noun",
+      "meaning": "hàng nguy hiểm",
+      "exampleSentence": "Label hazardous goods properly.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/hazardous-goods.wav"
+    },
+    {
+      "id": "v-shipping-13",
+      "word": "pallet",
+      "phonetic": "/ˈpælɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "pallet",
+      "exampleSentence": "Stack boxes on a pallet.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/pallet.wav"
+    },
+    {
+      "id": "v-shipping-14",
+      "word": "manifest",
+      "phonetic": "/ˈmænɪfest/",
+      "partOfSpeech": "noun",
+      "meaning": "bản kê khai",
+      "exampleSentence": "Check the shipping manifest.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/manifest.wav"
+    },
+    {
+      "id": "v-shipping-15",
+      "word": "ETA",
+      "phonetic": "/ˌiː tiː ˈeɪ/",
+      "partOfSpeech": "noun",
+      "meaning": "thời gian dự kiến đến",
+      "exampleSentence": "ETA is Thursday morning.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/eta.wav"
+    },
+    {
+      "id": "v-shipping-16",
+      "word": "dock",
+      "phonetic": "/dɒk/",
+      "partOfSpeech": "noun",
+      "meaning": "bến bãi",
+      "exampleSentence": "Trucks wait at the loading dock.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/dock.wav"
+    },
+    {
+      "id": "v-shipping-17",
+      "word": "courier",
+      "phonetic": "/ˈkʊriər/",
+      "partOfSpeech": "noun",
+      "meaning": "chuyển phát nhanh",
+      "exampleSentence": "Send it by courier.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/courier.wav"
+    },
+    {
+      "id": "v-shipping-18",
+      "word": "overseas",
+      "phonetic": "/ˌoʊvərˈsiːz/",
+      "partOfSpeech": "adverb",
+      "meaning": "nước ngoài",
+      "exampleSentence": "Ship overseas via air freight.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/overseas.wav"
+    },
+    {
+      "id": "v-shipping-19",
+      "word": "consolidation",
+      "phonetic": "/kənˌsɒlɪˈdeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "gom hàng",
+      "exampleSentence": "Consolidation reduces shipping costs.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/consolidation.wav"
+    },
+    {
+      "id": "v-shipping-20",
+      "word": "demurrage",
+      "phonetic": "/dɪˈmʌrɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "phí lưu container",
+      "exampleSentence": "Avoid demurrage charges.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/demurrage.wav"
+    },
+    {
+      "id": "v-shipping-21",
+      "word": "waybill",
+      "phonetic": "/ˈweɪbɪl/",
+      "partOfSpeech": "noun",
+      "meaning": "vận đơn đường bộ",
+      "exampleSentence": "Attach the waybill to the crate.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/waybill.wav"
+    },
+    {
+      "id": "v-shipping-22",
+      "word": "intermodal",
+      "phonetic": "/ˌɪntərˈmoʊdl/",
+      "partOfSpeech": "adjective",
+      "meaning": "đa phương thức",
+      "exampleSentence": "Use intermodal transport.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/intermodal.wav"
+    },
+    {
+      "id": "v-shipping-23",
+      "word": "shipment",
+      "phonetic": "/ˈʃɪpmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "lô hàng",
+      "exampleSentence": "The shipment is en route.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/shipment.wav"
+    },
+    {
+      "id": "v-shipping-24",
+      "word": "logistics hub",
+      "phonetic": "/ləˈdʒɪstɪks hʌb/",
+      "partOfSpeech": "noun",
+      "meaning": "trung tâm logistics",
+      "exampleSentence": "The logistics hub opened in 2023.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/logistics-hub.wav"
+    },
+    {
+      "id": "v-shipping-25",
+      "word": "fulfillment",
+      "phonetic": "/fʊlˈfɪlmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "hoàn tất đơn hàng",
+      "exampleSentence": "Order fulfillment takes two days.",
+      "topic": "shipping",
+      "audioUrl": "/audio/vocab/shipping/fulfillment.wav"
+    }
+  ]
+}

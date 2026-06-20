@@ -1,0 +1,257 @@
+{
+  "topic": "finance",
+  "label": "Finance",
+  "icon": "💰",
+  "cards": [
+    {
+      "id": "v-finance-1",
+      "word": "interest rate",
+      "phonetic": "/ˈɪntrəst reɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "lãi suất",
+      "exampleSentence": "The interest rate dropped to 4%.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/interest-rate.wav"
+    },
+    {
+      "id": "v-finance-2",
+      "word": "mortgage",
+      "phonetic": "/ˈmɔːrɡɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "thế chấp",
+      "exampleSentence": "They applied for a mortgage.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/mortgage.wav"
+    },
+    {
+      "id": "v-finance-3",
+      "word": "audit",
+      "phonetic": "/ˈɔːdɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "kiểm toán",
+      "exampleSentence": "The annual audit starts Monday.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/audit.wav"
+    },
+    {
+      "id": "v-finance-4",
+      "word": "depreciation",
+      "phonetic": "/dɪˌpriːʃiˈeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "khấu hao",
+      "exampleSentence": "Calculate asset depreciation.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/depreciation.wav"
+    },
+    {
+      "id": "v-finance-5",
+      "word": "liquidity",
+      "phonetic": "/lɪˈkwɪdəti/",
+      "partOfSpeech": "noun",
+      "meaning": "thanh khoản",
+      "exampleSentence": "The firm has strong liquidity.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/liquidity.wav"
+    },
+    {
+      "id": "v-finance-6",
+      "word": "invoice",
+      "phonetic": "/ˈɪnvɔɪs/",
+      "partOfSpeech": "noun",
+      "meaning": "hóa đơn",
+      "exampleSentence": "Send the invoice by e-mail.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/invoice.wav"
+    },
+    {
+      "id": "v-finance-7",
+      "word": "budget",
+      "phonetic": "/ˈbʌdʒɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "ngân sách",
+      "exampleSentence": "Stay within the budget.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/budget.wav"
+    },
+    {
+      "id": "v-finance-8",
+      "word": "transaction",
+      "phonetic": "/trænˈzækʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "giao dịch",
+      "exampleSentence": "Each transaction is logged.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/transaction.wav"
+    },
+    {
+      "id": "v-finance-9",
+      "word": "collateral",
+      "phonetic": "/kəˈlætərəl/",
+      "partOfSpeech": "noun",
+      "meaning": "tài sản thế chấp",
+      "exampleSentence": "The bank required collateral.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/collateral.wav"
+    },
+    {
+      "id": "v-finance-10",
+      "word": "equity",
+      "phonetic": "/ˈekwəti/",
+      "partOfSpeech": "noun",
+      "meaning": "vốn chủ sở hữu",
+      "exampleSentence": "Equity investors joined the round.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/equity.wav"
+    },
+    {
+      "id": "v-finance-11",
+      "word": "bond",
+      "phonetic": "/bɒnd/",
+      "partOfSpeech": "noun",
+      "meaning": "trái phiếu",
+      "exampleSentence": "Government bonds are low-risk.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/bond.wav"
+    },
+    {
+      "id": "v-finance-12",
+      "word": "portfolio",
+      "phonetic": "/pɔːrtˈfoʊlioʊ/",
+      "partOfSpeech": "noun",
+      "meaning": "danh mục",
+      "exampleSentence": "Rebalance your portfolio yearly.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/portfolio.wav"
+    },
+    {
+      "id": "v-finance-13",
+      "word": "overdraft",
+      "phonetic": "/ˈoʊvərdræft/",
+      "partOfSpeech": "noun",
+      "meaning": "thấu chi",
+      "exampleSentence": "Avoid overdraft fees.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/overdraft.wav"
+    },
+    {
+      "id": "v-finance-14",
+      "word": "fiscal year",
+      "phonetic": "/ˈfɪskl jɪr/",
+      "partOfSpeech": "noun",
+      "meaning": "năm tài chính",
+      "exampleSentence": "The fiscal year ends in June.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/fiscal-year.wav"
+    },
+    {
+      "id": "v-finance-15",
+      "word": "amortization",
+      "phonetic": "/əˌmɔːrtɪˈzeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "khấu trừ dần",
+      "exampleSentence": "Amortization spreads the cost.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/amortization.wav"
+    },
+    {
+      "id": "v-finance-16",
+      "word": "creditworthiness",
+      "phonetic": "/ˈkredɪtwɜːrðinəs/",
+      "partOfSpeech": "noun",
+      "meaning": "khả năng trả nợ",
+      "exampleSentence": "Banks assess creditworthiness.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/creditworthiness.wav"
+    },
+    {
+      "id": "v-finance-17",
+      "word": "dividend yield",
+      "phonetic": "/ˈdɪvɪdend jiːld/",
+      "partOfSpeech": "noun",
+      "meaning": "tỷ suất cổ tức",
+      "exampleSentence": "The dividend yield is attractive.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/dividend-yield.wav"
+    },
+    {
+      "id": "v-finance-18",
+      "word": "capital expenditure",
+      "phonetic": "/ˈkæpɪtl ɪkˈspendɪtʃər/",
+      "partOfSpeech": "noun",
+      "meaning": "chi phí đầu tư",
+      "exampleSentence": "CapEx rose this quarter.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/capital-expenditure.wav"
+    },
+    {
+      "id": "v-finance-19",
+      "word": "write-off",
+      "phonetic": "/raɪt ɒf/",
+      "partOfSpeech": "noun",
+      "meaning": "xóa nợ",
+      "exampleSentence": "They took a tax write-off.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/write-off.wav"
+    },
+    {
+      "id": "v-finance-20",
+      "word": "reconciliation",
+      "phonetic": "/ˌrekənsɪliˈeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "đối chiếu",
+      "exampleSentence": "Monthly bank reconciliation is due.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/reconciliation.wav"
+    },
+    {
+      "id": "v-finance-21",
+      "word": "underwriting",
+      "phonetic": "/ˈʌndərˌraɪtɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "bảo lãnh phát hành",
+      "exampleSentence": "Underwriting fees were disclosed.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/underwriting.wav"
+    },
+    {
+      "id": "v-finance-22",
+      "word": "hedge",
+      "phonetic": "/hedʒ/",
+      "partOfSpeech": "verb",
+      "meaning": "phòng ngừa rủi ro",
+      "exampleSentence": "Hedge against currency risk.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/hedge.wav"
+    },
+    {
+      "id": "v-finance-23",
+      "word": "solvency",
+      "phonetic": "/ˈsɒlvənsi/",
+      "partOfSpeech": "noun",
+      "meaning": "khả năng thanh toán",
+      "exampleSentence": "Test the company's solvency.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/solvency.wav"
+    },
+    {
+      "id": "v-finance-24",
+      "word": "accrual",
+      "phonetic": "/əˈkruːəl/",
+      "partOfSpeech": "noun",
+      "meaning": "dồn tích",
+      "exampleSentence": "Revenue is recognized on accrual basis.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/accrual.wav"
+    },
+    {
+      "id": "v-finance-25",
+      "word": "foreclosure",
+      "phonetic": "/fɔːrˈkloʊʒər/",
+      "partOfSpeech": "noun",
+      "meaning": "tịch thu tài sản",
+      "exampleSentence": "Foreclosure was avoided.",
+      "topic": "finance",
+      "audioUrl": "/audio/vocab/finance/foreclosure.wav"
+    }
+  ]
+}

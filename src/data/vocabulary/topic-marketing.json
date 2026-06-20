@@ -1,0 +1,257 @@
+{
+  "topic": "marketing",
+  "label": "Marketing",
+  "icon": "📣",
+  "cards": [
+    {
+      "id": "v-marketing-1",
+      "word": "brand awareness",
+      "phonetic": "/brænd əˈwernəs/",
+      "partOfSpeech": "noun",
+      "meaning": "nhận diện thương hiệu",
+      "exampleSentence": "Campaigns boost brand awareness.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/brand-awareness.wav"
+    },
+    {
+      "id": "v-marketing-2",
+      "word": "target audience",
+      "phonetic": "/ˈtɑːrɡɪt ˈɔːdiəns/",
+      "partOfSpeech": "noun",
+      "meaning": "đối tượng mục tiêu",
+      "exampleSentence": "Define your target audience.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/target-audience.wav"
+    },
+    {
+      "id": "v-marketing-3",
+      "word": "conversion rate",
+      "phonetic": "/kənˈvɜːrʒn reɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "tỷ lệ chuyển đổi",
+      "exampleSentence": "Conversion rate improved 8%.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/conversion-rate.wav"
+    },
+    {
+      "id": "v-marketing-4",
+      "word": "market share",
+      "phonetic": "/ˈmɑːrkɪt ʃer/",
+      "partOfSpeech": "noun",
+      "meaning": "thị phần",
+      "exampleSentence": "We gained market share.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/market-share.wav"
+    },
+    {
+      "id": "v-marketing-5",
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "sự bảo trợ",
+      "exampleSentence": "Celebrity endorsement helped sales.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/endorsement.wav"
+    },
+    {
+      "id": "v-marketing-6",
+      "word": "demographic",
+      "phonetic": "/ˌdeməˈɡræfɪk/",
+      "partOfSpeech": "noun",
+      "meaning": "nhóm nhân khẩu học",
+      "exampleSentence": "Study the key demographic.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/demographic.wav"
+    },
+    {
+      "id": "v-marketing-7",
+      "word": "promotional",
+      "phonetic": "/prəˈmoʊʃənl/",
+      "partOfSpeech": "adjective",
+      "meaning": "quảng bá",
+      "exampleSentence": "Launch a promotional offer.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/promotional.wav"
+    },
+    {
+      "id": "v-marketing-8",
+      "word": "segmentation",
+      "phonetic": "/ˌseɡmənˈteɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "phân khúc",
+      "exampleSentence": "Use market segmentation.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/segmentation.wav"
+    },
+    {
+      "id": "v-marketing-9",
+      "word": "ROI",
+      "phonetic": "/ˌɑːr oʊ ˈaɪ/",
+      "partOfSpeech": "noun",
+      "meaning": "lợi tức đầu tư",
+      "exampleSentence": "Measure ROI on ad spend.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/roi.wav"
+    },
+    {
+      "id": "v-marketing-10",
+      "word": "loyalty program",
+      "phonetic": "/ˈlɔɪəlti ˈproʊɡræm/",
+      "partOfSpeech": "noun",
+      "meaning": "chương trình khách hàng thân thiết",
+      "exampleSentence": "Join our loyalty program.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/loyalty-program.wav"
+    },
+    {
+      "id": "v-marketing-11",
+      "word": "billboard",
+      "phonetic": "/ˈbɪlbɔːrd/",
+      "partOfSpeech": "noun",
+      "meaning": "bảng quảng cáo",
+      "exampleSentence": "Billboards line the highway.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/billboard.wav"
+    },
+    {
+      "id": "v-marketing-12",
+      "word": "newsletter",
+      "phonetic": "/ˈnuːzletər/",
+      "partOfSpeech": "noun",
+      "meaning": "bản tin",
+      "exampleSentence": "Subscribe to the newsletter.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/newsletter.wav"
+    },
+    {
+      "id": "v-marketing-13",
+      "word": "viral",
+      "phonetic": "/ˈvaɪrəl/",
+      "partOfSpeech": "adjective",
+      "meaning": "lan truyền",
+      "exampleSentence": "The video went viral.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/viral.wav"
+    },
+    {
+      "id": "v-marketing-14",
+      "word": "slogan",
+      "phonetic": "/ˈsloʊɡən/",
+      "partOfSpeech": "noun",
+      "meaning": "khẩu hiệu",
+      "exampleSentence": "The new slogan is catchy.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/slogan.wav"
+    },
+    {
+      "id": "v-marketing-15",
+      "word": "focus group",
+      "phonetic": "/ˈfoʊkəs ɡruːp/",
+      "partOfSpeech": "noun",
+      "meaning": "nhóm khảo sát",
+      "exampleSentence": "Run a focus group test.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/focus-group.wav"
+    },
+    {
+      "id": "v-marketing-16",
+      "word": "A/B testing",
+      "phonetic": "/eɪ biː ˈtestɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "thử nghiệm A/B",
+      "exampleSentence": "A/B testing picked the winner.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/a/b-testing.wav"
+    },
+    {
+      "id": "v-marketing-17",
+      "word": "influencer",
+      "phonetic": "/ˈɪnfluənsər/",
+      "partOfSpeech": "noun",
+      "meaning": "người có ảnh hưởng",
+      "exampleSentence": "Partner with an influencer.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/influencer.wav"
+    },
+    {
+      "id": "v-marketing-18",
+      "word": "retargeting",
+      "phonetic": "/riːˈtɑːrɡɪtɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "quảng cáo nhắm lại",
+      "exampleSentence": "Retargeting recovered abandoned carts.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/retargeting.wav"
+    },
+    {
+      "id": "v-marketing-19",
+      "word": "collateral",
+      "phonetic": "/kəˈlætərəl/",
+      "partOfSpeech": "noun",
+      "meaning": "tài liệu marketing",
+      "exampleSentence": "Print new sales collateral.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/collateral.wav"
+    },
+    {
+      "id": "v-marketing-20",
+      "word": "upsell",
+      "phonetic": "/ˈʌpsel/",
+      "partOfSpeech": "verb",
+      "meaning": "bán thêm",
+      "exampleSentence": "Train staff to upsell.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/upsell.wav"
+    },
+    {
+      "id": "v-marketing-21",
+      "word": "cross-sell",
+      "phonetic": "/krɒs sel/",
+      "partOfSpeech": "verb",
+      "meaning": "bán chéo",
+      "exampleSentence": "Cross-sell related products.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/cross-sell.wav"
+    },
+    {
+      "id": "v-marketing-22",
+      "word": "impression",
+      "phonetic": "/ɪmˈpreʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "lượt hiển thị",
+      "exampleSentence": "Impressions exceeded one million.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/impression.wav"
+    },
+    {
+      "id": "v-marketing-23",
+      "word": "click-through",
+      "phonetic": "/klɪk θruː/",
+      "partOfSpeech": "noun",
+      "meaning": "tỷ lệ nhấp",
+      "exampleSentence": "Click-through rate doubled.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/click-through.wav"
+    },
+    {
+      "id": "v-marketing-24",
+      "word": "positioning",
+      "phonetic": "/pəˈzɪʃənɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "định vị",
+      "exampleSentence": "Clarify brand positioning.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/positioning.wav"
+    },
+    {
+      "id": "v-marketing-25",
+      "word": "launch",
+      "phonetic": "/lɔːntʃ/",
+      "partOfSpeech": "noun",
+      "meaning": "ra mắt sản phẩm",
+      "exampleSentence": "The launch is set for April.",
+      "topic": "marketing",
+      "audioUrl": "/audio/vocab/marketing/launch.wav"
+    }
+  ]
+}

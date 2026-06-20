@@ -1,0 +1,257 @@
+{
+  "topic": "technology",
+  "label": "Technology",
+  "icon": "💻",
+  "cards": [
+    {
+      "id": "v-technology-1",
+      "word": "bandwidth",
+      "phonetic": "/ˈbændwɪdθ/",
+      "partOfSpeech": "noun",
+      "meaning": "băng thông",
+      "exampleSentence": "Upgrade bandwidth for video calls.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/bandwidth.wav"
+    },
+    {
+      "id": "v-technology-2",
+      "word": "encryption",
+      "phonetic": "/ɪnˈkrɪpʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "mã hóa",
+      "exampleSentence": "Use 256-bit encryption.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/encryption.wav"
+    },
+    {
+      "id": "v-technology-3",
+      "word": "firewall",
+      "phonetic": "/ˈfaɪərwɔːl/",
+      "partOfSpeech": "noun",
+      "meaning": "tường lửa",
+      "exampleSentence": "Configure the firewall rules.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/firewall.wav"
+    },
+    {
+      "id": "v-technology-4",
+      "word": "malware",
+      "phonetic": "/ˈmælwer/",
+      "partOfSpeech": "noun",
+      "meaning": "phần mềm độc hại",
+      "exampleSentence": "Scan for malware weekly.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/malware.wav"
+    },
+    {
+      "id": "v-technology-5",
+      "word": "database",
+      "phonetic": "/ˈdeɪtəbeɪs/",
+      "partOfSpeech": "noun",
+      "meaning": "cơ sở dữ liệu",
+      "exampleSentence": "Back up the database nightly.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/database.wav"
+    },
+    {
+      "id": "v-technology-6",
+      "word": "interface",
+      "phonetic": "/ˈɪntərfeɪs/",
+      "partOfSpeech": "noun",
+      "meaning": "giao diện",
+      "exampleSentence": "The interface is user-friendly.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/interface.wav"
+    },
+    {
+      "id": "v-technology-7",
+      "word": "algorithm",
+      "phonetic": "/ˈælɡərɪðəm/",
+      "partOfSpeech": "noun",
+      "meaning": "thuật toán",
+      "exampleSentence": "The algorithm improves search results.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/algorithm.wav"
+    },
+    {
+      "id": "v-technology-8",
+      "word": "prototype",
+      "phonetic": "/ˈproʊtətaɪp/",
+      "partOfSpeech": "noun",
+      "meaning": "nguyên mẫu",
+      "exampleSentence": "Build a prototype by Friday.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/prototype.wav"
+    },
+    {
+      "id": "v-technology-9",
+      "word": "deployment",
+      "phonetic": "/dɪˈplɔɪmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "triển khai",
+      "exampleSentence": "Deployment is scheduled tonight.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/deployment.wav"
+    },
+    {
+      "id": "v-technology-10",
+      "word": "latency",
+      "phonetic": "/ˈleɪtənsi/",
+      "partOfSpeech": "noun",
+      "meaning": "độ trễ",
+      "exampleSentence": "Reduce network latency.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/latency.wav"
+    },
+    {
+      "id": "v-technology-11",
+      "word": "cloud computing",
+      "phonetic": "/klaʊd kəmˈpjuːtɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "điện toán đám mây",
+      "exampleSentence": "Migrate to cloud computing.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/cloud-computing.wav"
+    },
+    {
+      "id": "v-technology-12",
+      "word": "automation",
+      "phonetic": "/ˌɔːtəˈmeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "tự động hóa",
+      "exampleSentence": "Automation saves labor costs.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/automation.wav"
+    },
+    {
+      "id": "v-technology-13",
+      "word": "debug",
+      "phonetic": "/diːˈbʌɡ/",
+      "partOfSpeech": "verb",
+      "meaning": "gỡ lỗi",
+      "exampleSentence": "Debug the application before release.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/debug.wav"
+    },
+    {
+      "id": "v-technology-14",
+      "word": "patch",
+      "phonetic": "/pætʃ/",
+      "partOfSpeech": "noun",
+      "meaning": "bản vá",
+      "exampleSentence": "Install the security patch.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/patch.wav"
+    },
+    {
+      "id": "v-technology-15",
+      "word": "server",
+      "phonetic": "/ˈsɜːrvər/",
+      "partOfSpeech": "noun",
+      "meaning": "máy chủ",
+      "exampleSentence": "The server will restart at midnight.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/server.wav"
+    },
+    {
+      "id": "v-technology-16",
+      "word": "API",
+      "phonetic": "/ˌeɪ piː ˈaɪ/",
+      "partOfSpeech": "noun",
+      "meaning": "giao diện lập trình",
+      "exampleSentence": "Integrate via the REST API.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/api.wav"
+    },
+    {
+      "id": "v-technology-17",
+      "word": "scalability",
+      "phonetic": "/ˌskeɪləˈbɪləti/",
+      "partOfSpeech": "noun",
+      "meaning": "khả năng mở rộng",
+      "exampleSentence": "Test scalability under load.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/scalability.wav"
+    },
+    {
+      "id": "v-technology-18",
+      "word": "backup",
+      "phonetic": "/ˈbækʌp/",
+      "partOfSpeech": "noun",
+      "meaning": "sao lưu",
+      "exampleSentence": "Restore from the latest backup.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/backup.wav"
+    },
+    {
+      "id": "v-technology-19",
+      "word": "virtualization",
+      "phonetic": "/ˌvɜːrtʃuələˈzeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "ảo hóa",
+      "exampleSentence": "Virtualization reduces hardware costs.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/virtualization.wav"
+    },
+    {
+      "id": "v-technology-20",
+      "word": "open-source",
+      "phonetic": "/ˌoʊpən ˈsɔːrs/",
+      "partOfSpeech": "adjective",
+      "meaning": "mã nguồn mở",
+      "exampleSentence": "They adopted open-source tools.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/open-source.wav"
+    },
+    {
+      "id": "v-technology-21",
+      "word": "iteration",
+      "phonetic": "/ˌɪtəˈreɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "lần lặp",
+      "exampleSentence": "Each iteration adds features.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/iteration.wav"
+    },
+    {
+      "id": "v-technology-22",
+      "word": "throughput",
+      "phonetic": "/ˈθruːpʊt/",
+      "partOfSpeech": "noun",
+      "meaning": "thông lượng",
+      "exampleSentence": "Throughput doubled after optimization.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/throughput.wav"
+    },
+    {
+      "id": "v-technology-23",
+      "word": "repository",
+      "phonetic": "/rɪˈpɒzətɔːri/",
+      "partOfSpeech": "noun",
+      "meaning": "kho mã",
+      "exampleSentence": "Push changes to the repository.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/repository.wav"
+    },
+    {
+      "id": "v-technology-24",
+      "word": "middleware",
+      "phonetic": "/ˈmɪdlwer/",
+      "partOfSpeech": "noun",
+      "meaning": "phần mềm trung gian",
+      "exampleSentence": "Middleware connects the systems.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/middleware.wav"
+    },
+    {
+      "id": "v-technology-25",
+      "word": "render",
+      "phonetic": "/ˈrendər/",
+      "partOfSpeech": "verb",
+      "meaning": "kết xuất",
+      "exampleSentence": "The page renders in under a second.",
+      "topic": "technology",
+      "audioUrl": "/audio/vocab/technology/render.wav"
+    }
+  ]
+}

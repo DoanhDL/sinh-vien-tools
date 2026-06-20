@@ -1,0 +1,257 @@
+{
+  "topic": "real-estate",
+  "label": "Real Estate",
+  "icon": "🏠",
+  "cards": [
+    {
+      "id": "v-real-estate-1",
+      "word": "lease",
+      "phonetic": "/liːs/",
+      "partOfSpeech": "noun",
+      "meaning": "hợp đồng thuê",
+      "exampleSentence": "Sign a five-year lease.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/lease.wav"
+    },
+    {
+      "id": "v-real-estate-2",
+      "word": "mortgage",
+      "phonetic": "/ˈmɔːrɡɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "thế chấp",
+      "exampleSentence": "Apply for a fixed-rate mortgage.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/mortgage.wav"
+    },
+    {
+      "id": "v-real-estate-3",
+      "word": "appraisal",
+      "phonetic": "/əˈpreɪzl/",
+      "partOfSpeech": "noun",
+      "meaning": "thẩm định giá",
+      "exampleSentence": "The appraisal came in higher.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/appraisal.wav"
+    },
+    {
+      "id": "v-real-estate-4",
+      "word": "tenant",
+      "phonetic": "/ˈtenənt/",
+      "partOfSpeech": "noun",
+      "meaning": "người thuê",
+      "exampleSentence": "The tenant renewed the lease.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/tenant.wav"
+    },
+    {
+      "id": "v-real-estate-5",
+      "word": "landlord",
+      "phonetic": "/ˈlændlɔːrd/",
+      "partOfSpeech": "noun",
+      "meaning": "chủ nhà",
+      "exampleSentence": "Contact the landlord for repairs.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/landlord.wav"
+    },
+    {
+      "id": "v-real-estate-6",
+      "word": "down payment",
+      "phonetic": "/daʊn ˈpeɪmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "tiền đặt cọc",
+      "exampleSentence": "Save for a larger down payment.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/down-payment.wav"
+    },
+    {
+      "id": "v-real-estate-7",
+      "word": "zoning",
+      "phonetic": "/ˈzoʊnɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "quy hoạch",
+      "exampleSentence": "Check zoning regulations.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/zoning.wav"
+    },
+    {
+      "id": "v-real-estate-8",
+      "word": "foreclosure",
+      "phonetic": "/fɔːrˈkloʊʒər/",
+      "partOfSpeech": "noun",
+      "meaning": "tịch thu nhà",
+      "exampleSentence": "Foreclosure listings increased.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/foreclosure.wav"
+    },
+    {
+      "id": "v-real-estate-9",
+      "word": "renovation",
+      "phonetic": "/ˌrenəˈveɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "cải tạo",
+      "exampleSentence": "Renovation will take three months.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/renovation.wav"
+    },
+    {
+      "id": "v-real-estate-10",
+      "word": "square footage",
+      "phonetic": "/skwer ˈfuːtɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "diện tích",
+      "exampleSentence": "The office has 2,000 square footage.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/square-footage.wav"
+    },
+    {
+      "id": "v-real-estate-11",
+      "word": "amenities",
+      "phonetic": "/əˈmenətiz/",
+      "partOfSpeech": "noun",
+      "meaning": "tiện ích",
+      "exampleSentence": "Building amenities include a gym.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/amenities.wav"
+    },
+    {
+      "id": "v-real-estate-12",
+      "word": "escrow",
+      "phonetic": "/ˈeskroʊ/",
+      "partOfSpeech": "noun",
+      "meaning": "tài khoản ký quỹ",
+      "exampleSentence": "Funds are held in escrow.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/escrow.wav"
+    },
+    {
+      "id": "v-real-estate-13",
+      "word": "listing",
+      "phonetic": "/ˈlɪstɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "tin rao bán",
+      "exampleSentence": "View the online listing.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/listing.wav"
+    },
+    {
+      "id": "v-real-estate-14",
+      "word": "broker",
+      "phonetic": "/ˈbroʊkər/",
+      "partOfSpeech": "noun",
+      "meaning": "môi giới",
+      "exampleSentence": "Hire a licensed broker.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/broker.wav"
+    },
+    {
+      "id": "v-real-estate-15",
+      "word": "occupancy rate",
+      "phonetic": "/ˈɒkjəpənsi reɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "tỷ lệ lấp đầy",
+      "exampleSentence": "Occupancy rate reached 95%.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/occupancy-rate.wav"
+    },
+    {
+      "id": "v-real-estate-16",
+      "word": "property tax",
+      "phonetic": "/ˈprɒpərti tæks/",
+      "partOfSpeech": "noun",
+      "meaning": "thuế tài sản",
+      "exampleSentence": "Property tax is due in April.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/property-tax.wav"
+    },
+    {
+      "id": "v-real-estate-17",
+      "word": "deed",
+      "phonetic": "/diːd/",
+      "partOfSpeech": "noun",
+      "meaning": "giấy chứng nhận quyền sở hữu",
+      "exampleSentence": "The deed was recorded yesterday.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/deed.wav"
+    },
+    {
+      "id": "v-real-estate-18",
+      "word": "sublease",
+      "phonetic": "/sʌbˈliːs/",
+      "partOfSpeech": "verb",
+      "meaning": "cho thuê lại",
+      "exampleSentence": "You may not sublease without approval.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/sublease.wav"
+    },
+    {
+      "id": "v-real-estate-19",
+      "word": "condominium",
+      "phonetic": "/ˌkɒndəˈmɪniəm/",
+      "partOfSpeech": "noun",
+      "meaning": "căn hộ chung cư",
+      "exampleSentence": "She bought a condominium downtown.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/condominium.wav"
+    },
+    {
+      "id": "v-real-estate-20",
+      "word": "eviction",
+      "phonetic": "/ɪˈvɪkʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "đuổi thuê",
+      "exampleSentence": "Eviction requires legal notice.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/eviction.wav"
+    },
+    {
+      "id": "v-real-estate-21",
+      "word": "inspection",
+      "phonetic": "/ɪnˈspekʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "kiểm tra",
+      "exampleSentence": "Schedule a home inspection.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/inspection.wav"
+    },
+    {
+      "id": "v-real-estate-22",
+      "word": "refinance",
+      "phonetic": "/riːˈfaɪnæns/",
+      "partOfSpeech": "verb",
+      "meaning": "tái cấp vốn",
+      "exampleSentence": "Refinance at a lower rate.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/refinance.wav"
+    },
+    {
+      "id": "v-real-estate-23",
+      "word": "commercial property",
+      "phonetic": "/kəˈmɜːrʃl ˈprɒpərti/",
+      "partOfSpeech": "noun",
+      "meaning": "bất động sản thương mại",
+      "exampleSentence": "Invest in commercial property.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/commercial-property.wav"
+    },
+    {
+      "id": "v-real-estate-24",
+      "word": "rental agreement",
+      "phonetic": "/ˈrentl əˈɡriːmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "hợp đồng thuê",
+      "exampleSentence": "Read the rental agreement carefully.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/rental-agreement.wav"
+    },
+    {
+      "id": "v-real-estate-25",
+      "word": "closing costs",
+      "phonetic": "/ˈkloʊzɪŋ kɒsts/",
+      "partOfSpeech": "noun",
+      "meaning": "chi phí chốt giao dịch",
+      "exampleSentence": "Budget for closing costs.",
+      "topic": "real-estate",
+      "audioUrl": "/audio/vocab/real-estate/closing-costs.wav"
+    }
+  ]
+}

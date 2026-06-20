@@ -1,0 +1,257 @@
+{
+  "topic": "office",
+  "label": "Office",
+  "icon": "🏢",
+  "cards": [
+    {
+      "id": "v-office-1",
+      "word": "memo",
+      "phonetic": "/ˈmemoʊ/",
+      "partOfSpeech": "noun",
+      "meaning": "bản ghi nhớ",
+      "exampleSentence": "The manager sent a memo.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/memo.wav"
+    },
+    {
+      "id": "v-office-2",
+      "word": "colleague",
+      "phonetic": "/ˈkɒliːɡ/",
+      "partOfSpeech": "noun",
+      "meaning": "đồng nghiệp",
+      "exampleSentence": "My colleague will cover for me.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/colleague.wav"
+    },
+    {
+      "id": "v-office-3",
+      "word": "conference room",
+      "phonetic": "/ˈkɒnfərəns ruːm/",
+      "partOfSpeech": "noun",
+      "meaning": "phòng họp",
+      "exampleSentence": "Meet in Conference Room B.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/conference-room.wav"
+    },
+    {
+      "id": "v-office-4",
+      "word": "overtime",
+      "phonetic": "/ˈoʊvərtaɪm/",
+      "partOfSpeech": "noun",
+      "meaning": "làm thêm giờ",
+      "exampleSentence": "Overtime requires manager approval.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/overtime.wav"
+    },
+    {
+      "id": "v-office-5",
+      "word": "supervisor",
+      "phonetic": "/ˈsuːpərvaɪzər/",
+      "partOfSpeech": "noun",
+      "meaning": "người giám sát",
+      "exampleSentence": "Get approval from your supervisor.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/supervisor.wav"
+    },
+    {
+      "id": "v-office-6",
+      "word": "paperwork",
+      "phonetic": "/ˈpeɪpərwɜːrk/",
+      "partOfSpeech": "noun",
+      "meaning": "giấy tờ",
+      "exampleSentence": "Complete the paperwork by Friday.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/paperwork.wav"
+    },
+    {
+      "id": "v-office-7",
+      "word": "workspace",
+      "phonetic": "/ˈwɜːrkspeɪs/",
+      "partOfSpeech": "noun",
+      "meaning": "không gian làm việc",
+      "exampleSentence": "Hot-desking freed up workspace.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/workspace.wav"
+    },
+    {
+      "id": "v-office-8",
+      "word": "headquarters",
+      "phonetic": "/ˌhedˈkwɔːrtərz/",
+      "partOfSpeech": "noun",
+      "meaning": "trụ sở chính",
+      "exampleSentence": "Visit headquarters next month.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/headquarters.wav"
+    },
+    {
+      "id": "v-office-9",
+      "word": "receptionist",
+      "phonetic": "/rɪˈsepʃənɪst/",
+      "partOfSpeech": "noun",
+      "meaning": "lễ tân",
+      "exampleSentence": "The receptionist will greet visitors.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/receptionist.wav"
+    },
+    {
+      "id": "v-office-10",
+      "word": "cubicle",
+      "phonetic": "/ˈkjuːbɪkl/",
+      "partOfSpeech": "noun",
+      "meaning": "vách ngăn văn phòng",
+      "exampleSentence": "She works in cubicle 14.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/cubicle.wav"
+    },
+    {
+      "id": "v-office-11",
+      "word": "stationery",
+      "phonetic": "/ˈsteɪʃəneri/",
+      "partOfSpeech": "noun",
+      "meaning": "văn phòng phẩm",
+      "exampleSentence": "Order stationery from supply.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/stationery.wav"
+    },
+    {
+      "id": "v-office-12",
+      "word": "attendance",
+      "phonetic": "/əˈtendəns/",
+      "partOfSpeech": "noun",
+      "meaning": "chuyên cần",
+      "exampleSentence": "Attendance is tracked electronically.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/attendance.wav"
+    },
+    {
+      "id": "v-office-13",
+      "word": "promotion",
+      "phonetic": "/prəˈmoʊʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "thăng chức",
+      "exampleSentence": "She received a promotion.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/promotion.wav"
+    },
+    {
+      "id": "v-office-14",
+      "word": "resignation",
+      "phonetic": "/ˌrezɪɡˈneɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "đơn từ chức",
+      "exampleSentence": "He submitted his resignation.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/resignation.wav"
+    },
+    {
+      "id": "v-office-15",
+      "word": "onboarding",
+      "phonetic": "/ˈɒnbɔːrdɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "hội nhập nhân viên",
+      "exampleSentence": "Onboarding lasts two days.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/onboarding.wav"
+    },
+    {
+      "id": "v-office-16",
+      "word": "workflow",
+      "phonetic": "/ˈwɜːrkfloʊ/",
+      "partOfSpeech": "noun",
+      "meaning": "quy trình làm việc",
+      "exampleSentence": "Streamline the approval workflow.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/workflow.wav"
+    },
+    {
+      "id": "v-office-17",
+      "word": "bulletin board",
+      "phonetic": "/ˈbʊlətɪn bɔːrd/",
+      "partOfSpeech": "noun",
+      "meaning": "bảng thông báo",
+      "exampleSentence": "Check the bulletin board for updates.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/bulletin-board.wav"
+    },
+    {
+      "id": "v-office-18",
+      "word": "archives",
+      "phonetic": "/ˈɑːrkaɪvz/",
+      "partOfSpeech": "noun",
+      "meaning": "lưu trữ",
+      "exampleSentence": "Files are stored in the archives.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/archives.wav"
+    },
+    {
+      "id": "v-office-19",
+      "word": "nameplate",
+      "phonetic": "/ˈneɪmpleɪt/",
+      "partOfSpeech": "noun",
+      "meaning": "bảng tên",
+      "exampleSentence": "Her nameplate is on the door.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/nameplate.wav"
+    },
+    {
+      "id": "v-office-20",
+      "word": "break room",
+      "phonetic": "/breɪk ruːm/",
+      "partOfSpeech": "noun",
+      "meaning": "phòng nghỉ",
+      "exampleSentence": "Coffee is in the break room.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/break-room.wav"
+    },
+    {
+      "id": "v-office-21",
+      "word": "facilities",
+      "phonetic": "/fəˈsɪlətiz/",
+      "partOfSpeech": "noun",
+      "meaning": "cơ sở vật chất",
+      "exampleSentence": "Facilities management handles repairs.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/facilities.wav"
+    },
+    {
+      "id": "v-office-22",
+      "word": "directory",
+      "phonetic": "/dəˈrektəri/",
+      "partOfSpeech": "noun",
+      "meaning": "danh bạ",
+      "exampleSentence": "Look up extensions in the directory.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/directory.wav"
+    },
+    {
+      "id": "v-office-23",
+      "word": "intercom",
+      "phonetic": "/ˈɪntərkɒm/",
+      "partOfSpeech": "noun",
+      "meaning": "hệ thống liên lạc nội bộ",
+      "exampleSentence": "Use the intercom to reach security.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/intercom.wav"
+    },
+    {
+      "id": "v-office-24",
+      "word": "badge",
+      "phonetic": "/bædʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "thẻ nhân viên",
+      "exampleSentence": "Swipe your badge at the entrance.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/badge.wav"
+    },
+    {
+      "id": "v-office-25",
+      "word": "reimbursement",
+      "phonetic": "/ˌriːɪmˈbɜːrsmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "hoàn trả chi phí",
+      "exampleSentence": "Submit receipts for reimbursement.",
+      "topic": "office",
+      "audioUrl": "/audio/vocab/office/reimbursement.wav"
+    }
+  ]
+}

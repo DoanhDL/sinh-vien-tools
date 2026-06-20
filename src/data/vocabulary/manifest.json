@@ -1,0 +1,88 @@
+{
+  "topics": [
+    {
+      "id": "business",
+      "label": "Business",
+      "icon": "💼",
+      "count": 25,
+      "file": "topic-business.json"
+    },
+    {
+      "id": "travel",
+      "label": "Travel",
+      "icon": "✈️",
+      "count": 25,
+      "file": "topic-travel.json"
+    },
+    {
+      "id": "office",
+      "label": "Office",
+      "icon": "🏢",
+      "count": 25,
+      "file": "topic-office.json"
+    },
+    {
+      "id": "finance",
+      "label": "Finance",
+      "icon": "💰",
+      "count": 25,
+      "file": "topic-finance.json"
+    },
+    {
+      "id": "technology",
+      "label": "Technology",
+      "icon": "💻",
+      "count": 25,
+      "file": "topic-technology.json"
+    },
+    {
+      "id": "manufacturing",
+      "label": "Manufacturing",
+      "icon": "🏭",
+      "count": 25,
+      "file": "topic-manufacturing.json"
+    },
+    {
+      "id": "marketing",
+      "label": "Marketing",
+      "icon": "📣",
+      "count": 25,
+      "file": "topic-marketing.json"
+    },
+    {
+      "id": "hr",
+      "label": "Human Resources",
+      "icon": "👥",
+      "count": 25,
+      "file": "topic-hr.json"
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "icon": "🏥",
+      "count": 25,
+      "file": "topic-health.json"
+    },
+    {
+      "id": "dining",
+      "label": "Dining",
+      "icon": "🍽️",
+      "count": 25,
+      "file": "topic-dining.json"
+    },
+    {
+      "id": "shipping",
+      "label": "Shipping",
+      "icon": "🚢",
+      "count": 25,
+      "file": "topic-shipping.json"
+    },
+    {
+      "id": "real-estate",
+      "label": "Real Estate",
+      "icon": "🏠",
+      "count": 25,
+      "file": "topic-real-estate.json"
+    }
+  ]
+}

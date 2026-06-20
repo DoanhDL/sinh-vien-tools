@@ -1,0 +1,257 @@
+{
+  "topic": "manufacturing",
+  "label": "Manufacturing",
+  "icon": "🏭",
+  "cards": [
+    {
+      "id": "v-manufacturing-1",
+      "word": "assembly line",
+      "phonetic": "/əˈsembli laɪn/",
+      "partOfSpeech": "noun",
+      "meaning": "dây chuyền lắp ráp",
+      "exampleSentence": "Workers on the assembly line.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/assembly-line.wav"
+    },
+    {
+      "id": "v-manufacturing-2",
+      "word": "quality control",
+      "phonetic": "/ˈkwɒləti kənˈtroʊl/",
+      "partOfSpeech": "noun",
+      "meaning": "kiểm soát chất lượng",
+      "exampleSentence": "QC rejected the batch.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/quality-control.wav"
+    },
+    {
+      "id": "v-manufacturing-3",
+      "word": "raw material",
+      "phonetic": "/rɔː məˈtɪriəl/",
+      "partOfSpeech": "noun",
+      "meaning": "nguyên liệu thô",
+      "exampleSentence": "Raw material costs increased.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/raw-material.wav"
+    },
+    {
+      "id": "v-manufacturing-4",
+      "word": "throughput",
+      "phonetic": "/ˈθruːpʊt/",
+      "partOfSpeech": "noun",
+      "meaning": "sản lượng",
+      "exampleSentence": "Factory throughput hit a record.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/throughput.wav"
+    },
+    {
+      "id": "v-manufacturing-5",
+      "word": "defect",
+      "phonetic": "/ˈdiːfekt/",
+      "partOfSpeech": "noun",
+      "meaning": "lỗi sản phẩm",
+      "exampleSentence": "Defect rate fell below 1%.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/defect.wav"
+    },
+    {
+      "id": "v-manufacturing-6",
+      "word": "warehouse",
+      "phonetic": "/ˈwerhaʊs/",
+      "partOfSpeech": "noun",
+      "meaning": "kho hàng",
+      "exampleSentence": "Ship from the regional warehouse.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/warehouse.wav"
+    },
+    {
+      "id": "v-manufacturing-7",
+      "word": "logistics",
+      "phonetic": "/ləˈdʒɪstɪks/",
+      "partOfSpeech": "noun",
+      "meaning": "hậu cần",
+      "exampleSentence": "Logistics handles distribution.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/logistics.wav"
+    },
+    {
+      "id": "v-manufacturing-8",
+      "word": "fabrication",
+      "phonetic": "/ˌfæbrɪˈkeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "gia công chế tạo",
+      "exampleSentence": "Metal fabrication is outsourced.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/fabrication.wav"
+    },
+    {
+      "id": "v-manufacturing-9",
+      "word": "calibration",
+      "phonetic": "/ˌkælɪˈbreɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "hiệu chuẩn",
+      "exampleSentence": "Annual calibration is required.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/calibration.wav"
+    },
+    {
+      "id": "v-manufacturing-10",
+      "word": "downtime",
+      "phonetic": "/ˈdaʊntaɪm/",
+      "partOfSpeech": "noun",
+      "meaning": "thời gian ngừng máy",
+      "exampleSentence": "Minimize downtime during maintenance.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/downtime.wav"
+    },
+    {
+      "id": "v-manufacturing-11",
+      "word": "batch",
+      "phonetic": "/bætʃ/",
+      "partOfSpeech": "noun",
+      "meaning": "lô sản xuất",
+      "exampleSentence": "Process the next batch tonight.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/batch.wav"
+    },
+    {
+      "id": "v-manufacturing-12",
+      "word": "specification",
+      "phonetic": "/ˌspesɪfɪˈkeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "quy cách kỹ thuật",
+      "exampleSentence": "Meet all specifications.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/specification.wav"
+    },
+    {
+      "id": "v-manufacturing-13",
+      "word": "tooling",
+      "phonetic": "/ˈtuːlɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "đồ gá",
+      "exampleSentence": "New tooling speeds production.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/tooling.wav"
+    },
+    {
+      "id": "v-manufacturing-14",
+      "word": "lean manufacturing",
+      "phonetic": "/liːn ˌmænjuˈfæktʃərɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "sản xuất tinh gọn",
+      "exampleSentence": "Lean manufacturing cut waste.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/lean-manufacturing.wav"
+    },
+    {
+      "id": "v-manufacturing-15",
+      "word": "supply chain",
+      "phonetic": "/səˈplaɪ tʃeɪn/",
+      "partOfSpeech": "noun",
+      "meaning": "chuỗi cung ứng",
+      "exampleSentence": "Disruptions hit the supply chain.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/supply-chain.wav"
+    },
+    {
+      "id": "v-manufacturing-16",
+      "word": "work order",
+      "phonetic": "/wɜːrk ˈɔːrdər/",
+      "partOfSpeech": "noun",
+      "meaning": "lệnh sản xuất",
+      "exampleSentence": "Complete work order 4472.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/work-order.wav"
+    },
+    {
+      "id": "v-manufacturing-17",
+      "word": "hazardous",
+      "phonetic": "/ˈhæzərdəs/",
+      "partOfSpeech": "adjective",
+      "meaning": "nguy hiểm",
+      "exampleSentence": "Handle hazardous materials carefully.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/hazardous.wav"
+    },
+    {
+      "id": "v-manufacturing-18",
+      "word": "recycle",
+      "phonetic": "/riːˈsaɪkl/",
+      "partOfSpeech": "verb",
+      "meaning": "tái chế",
+      "exampleSentence": "Recycle scrap metal.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/recycle.wav"
+    },
+    {
+      "id": "v-manufacturing-19",
+      "word": "overhaul",
+      "phonetic": "/ˈoʊvərhɔːl/",
+      "partOfSpeech": "noun",
+      "meaning": "đại tu",
+      "exampleSentence": "Schedule a machine overhaul.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/overhaul.wav"
+    },
+    {
+      "id": "v-manufacturing-20",
+      "word": "tolerance",
+      "phonetic": "/ˈtɒlərəns/",
+      "partOfSpeech": "noun",
+      "meaning": "dung sai",
+      "exampleSentence": "Parts must be within tolerance.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/tolerance.wav"
+    },
+    {
+      "id": "v-manufacturing-21",
+      "word": "prototype",
+      "phonetic": "/ˈproʊtətaɪp/",
+      "partOfSpeech": "noun",
+      "meaning": "mẫu thử",
+      "exampleSentence": "Approve the prototype first.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/prototype.wav"
+    },
+    {
+      "id": "v-manufacturing-22",
+      "word": "conveyor",
+      "phonetic": "/kənˈveɪər/",
+      "partOfSpeech": "noun",
+      "meaning": "băng chuyền",
+      "exampleSentence": "Items move on the conveyor.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/conveyor.wav"
+    },
+    {
+      "id": "v-manufacturing-23",
+      "word": "inventory turnover",
+      "phonetic": "/ˈɪnvəntɔːri ˈtɜːrnoʊvər/",
+      "partOfSpeech": "noun",
+      "meaning": "vòng quay hàng tồn",
+      "exampleSentence": "Improve inventory turnover.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/inventory-turnover.wav"
+    },
+    {
+      "id": "v-manufacturing-24",
+      "word": "safety protocol",
+      "phonetic": "/ˈseɪfti ˈproʊtəkɒl/",
+      "partOfSpeech": "noun",
+      "meaning": "quy trình an toàn",
+      "exampleSentence": "Follow safety protocols.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/safety-protocol.wav"
+    },
+    {
+      "id": "v-manufacturing-25",
+      "word": "production quota",
+      "phonetic": "/prəˈdʌkʃn ˈkwoʊtə/",
+      "partOfSpeech": "noun",
+      "meaning": "chỉ tiêu sản xuất",
+      "exampleSentence": "We met the production quota.",
+      "topic": "manufacturing",
+      "audioUrl": "/audio/vocab/manufacturing/production-quota.wav"
+    }
+  ]
+}

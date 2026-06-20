@@ -1,0 +1,257 @@
+{
+  "topic": "hr",
+  "label": "Human Resources",
+  "icon": "👥",
+  "cards": [
+    {
+      "id": "v-hr-1",
+      "word": "recruitment",
+      "phonetic": "/rɪˈkruːtmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "tuyển dụng",
+      "exampleSentence": "Recruitment starts in January.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/recruitment.wav"
+    },
+    {
+      "id": "v-hr-2",
+      "word": "benefits package",
+      "phonetic": "/ˈbenɪfɪts ˈpækɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "gói phúc lợi",
+      "exampleSentence": "Review the benefits package.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/benefits-package.wav"
+    },
+    {
+      "id": "v-hr-3",
+      "word": "performance review",
+      "phonetic": "/pərˈfɔːrməns rɪˈvjuː/",
+      "partOfSpeech": "noun",
+      "meaning": "đánh giá hiệu suất",
+      "exampleSentence": "Annual performance reviews begin.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/performance-review.wav"
+    },
+    {
+      "id": "v-hr-4",
+      "word": "severance",
+      "phonetic": "/ˈsevərəns/",
+      "partOfSpeech": "noun",
+      "meaning": "trợ cấp thôi việc",
+      "exampleSentence": "She received severance pay.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/severance.wav"
+    },
+    {
+      "id": "v-hr-5",
+      "word": "probation",
+      "phonetic": "/proʊˈbeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "thử việc",
+      "exampleSentence": "Probation lasts three months.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/probation.wav"
+    },
+    {
+      "id": "v-hr-6",
+      "word": "compensation",
+      "phonetic": "/ˌkɒmpenˈseɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "thù lao",
+      "exampleSentence": "Compensation is competitive.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/compensation.wav"
+    },
+    {
+      "id": "v-hr-7",
+      "word": "diversity",
+      "phonetic": "/daɪˈvɜːrsəti/",
+      "partOfSpeech": "noun",
+      "meaning": "đa dạng",
+      "exampleSentence": "Promote workplace diversity.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/diversity.wav"
+    },
+    {
+      "id": "v-hr-8",
+      "word": "harassment",
+      "phonetic": "/həˈræsmənt/",
+      "partOfSpeech": "noun",
+      "meaning": "quấy rối",
+      "exampleSentence": "Report harassment immediately.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/harassment.wav"
+    },
+    {
+      "id": "v-hr-9",
+      "word": "retention",
+      "phonetic": "/rɪˈtenʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "giữ chân nhân viên",
+      "exampleSentence": "Improve employee retention.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/retention.wav"
+    },
+    {
+      "id": "v-hr-10",
+      "word": "appraisal",
+      "phonetic": "/əˈpreɪzl/",
+      "partOfSpeech": "noun",
+      "meaning": "thẩm định",
+      "exampleSentence": "Complete your self-appraisal.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/appraisal.wav"
+    },
+    {
+      "id": "v-hr-11",
+      "word": "payroll",
+      "phonetic": "/ˈpeɪroʊl/",
+      "partOfSpeech": "noun",
+      "meaning": "bảng lương",
+      "exampleSentence": "Payroll runs every two weeks.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/payroll.wav"
+    },
+    {
+      "id": "v-hr-12",
+      "word": "leave of absence",
+      "phonetic": "/liːv əv ˈæbsəns/",
+      "partOfSpeech": "noun",
+      "meaning": "nghỉ phép dài",
+      "exampleSentence": "She took a leave of absence.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/leave-of-absence.wav"
+    },
+    {
+      "id": "v-hr-13",
+      "word": "workforce",
+      "phonetic": "/ˈwɜːrkfɔːrs/",
+      "partOfSpeech": "noun",
+      "meaning": "lực lượng lao động",
+      "exampleSentence": "The workforce grew 10%.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/workforce.wav"
+    },
+    {
+      "id": "v-hr-14",
+      "word": "mentorship",
+      "phonetic": "/ˈmentɔːrʃɪp/",
+      "partOfSpeech": "noun",
+      "meaning": "cố vấn",
+      "exampleSentence": "Join the mentorship program.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/mentorship.wav"
+    },
+    {
+      "id": "v-hr-15",
+      "word": "termination",
+      "phonetic": "/ˌtɜːrmɪˈneɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "chấm dứt hợp đồng",
+      "exampleSentence": "Termination requires documentation.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/termination.wav"
+    },
+    {
+      "id": "v-hr-16",
+      "word": "job description",
+      "phonetic": "/dʒɒb dɪˈskrɪpʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "mô tả công việc",
+      "exampleSentence": "Update the job description.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/job-description.wav"
+    },
+    {
+      "id": "v-hr-17",
+      "word": "collective bargaining",
+      "phonetic": "/kəˈlektɪv ˈbɑːrɡənɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "thương lượng tập thể",
+      "exampleSentence": "Collective bargaining continues.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/collective-bargaining.wav"
+    },
+    {
+      "id": "v-hr-18",
+      "word": "grievance",
+      "phonetic": "/ˈɡriːvəns/",
+      "partOfSpeech": "noun",
+      "meaning": "khiếu nại",
+      "exampleSentence": "File a formal grievance.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/grievance.wav"
+    },
+    {
+      "id": "v-hr-19",
+      "word": "orientation",
+      "phonetic": "/ˌɔːriənˈteɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "định hướng",
+      "exampleSentence": "Orientation is on Monday.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/orientation.wav"
+    },
+    {
+      "id": "v-hr-20",
+      "word": "succession planning",
+      "phonetic": "/səkˈseʃn ˈplænɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "kế hoạch kế nhiệm",
+      "exampleSentence": "Succession planning is critical.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/succession-planning.wav"
+    },
+    {
+      "id": "v-hr-21",
+      "word": "headhunter",
+      "phonetic": "/ˈhedhʌntər/",
+      "partOfSpeech": "noun",
+      "meaning": "công ty săn nhân tài",
+      "exampleSentence": "A headhunter contacted her.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/headhunter.wav"
+    },
+    {
+      "id": "v-hr-22",
+      "word": "attrition",
+      "phonetic": "/əˈtrɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "tỷ lệ nghỉ việc",
+      "exampleSentence": "Attrition rose last quarter.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/attrition.wav"
+    },
+    {
+      "id": "v-hr-23",
+      "word": "freelance",
+      "phonetic": "/ˈfriːlæns/",
+      "partOfSpeech": "adjective",
+      "meaning": "làm tự do",
+      "exampleSentence": "Hire freelance designers.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/freelance.wav"
+    },
+    {
+      "id": "v-hr-24",
+      "word": "non-compete",
+      "phonetic": "/nɒn kəmˈpiːt/",
+      "partOfSpeech": "noun",
+      "meaning": "điều khoản cạnh tranh",
+      "exampleSentence": "Sign a non-compete clause.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/non-compete.wav"
+    },
+    {
+      "id": "v-hr-25",
+      "word": "wellness program",
+      "phonetic": "/ˈwelnəs ˈproʊɡræm/",
+      "partOfSpeech": "noun",
+      "meaning": "chương trình sức khỏe",
+      "exampleSentence": "Join the wellness program.",
+      "topic": "hr",
+      "audioUrl": "/audio/vocab/hr/wellness-program.wav"
+    }
+  ]
+}

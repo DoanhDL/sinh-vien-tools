@@ -1,0 +1,257 @@
+{
+  "topic": "travel",
+  "label": "Travel",
+  "icon": "✈️",
+  "cards": [
+    {
+      "id": "v-travel-1",
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "partOfSpeech": "noun",
+      "meaning": "lịch trình",
+      "exampleSentence": "Review your itinerary before the trip.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/itinerary.wav"
+    },
+    {
+      "id": "v-travel-2",
+      "word": "departure",
+      "phonetic": "/dɪˈpɑːrtʃər/",
+      "partOfSpeech": "noun",
+      "meaning": "khởi hành",
+      "exampleSentence": "The departure gate changed to Gate 12.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/departure.wav"
+    },
+    {
+      "id": "v-travel-3",
+      "word": "accommodation",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "chỗ ở",
+      "exampleSentence": "We booked accommodation near the center.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/accommodation.wav"
+    },
+    {
+      "id": "v-travel-4",
+      "word": "customs",
+      "phonetic": "/ˈkʌstəmz/",
+      "partOfSpeech": "noun",
+      "meaning": "hải quan",
+      "exampleSentence": "Go through customs upon arrival.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/customs.wav"
+    },
+    {
+      "id": "v-travel-5",
+      "word": "layover",
+      "phonetic": "/ˈleɪoʊvər/",
+      "partOfSpeech": "noun",
+      "meaning": "quá cảnh",
+      "exampleSentence": "We have a three-hour layover.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/layover.wav"
+    },
+    {
+      "id": "v-travel-6",
+      "word": "reservation",
+      "phonetic": "/ˌrezərˈveɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "đặt chỗ",
+      "exampleSentence": "Confirm my reservation for tonight.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/reservation.wav"
+    },
+    {
+      "id": "v-travel-7",
+      "word": "boarding pass",
+      "phonetic": "/ˈbɔːrdɪŋ pæs/",
+      "partOfSpeech": "noun",
+      "meaning": "thẻ lên máy bay",
+      "exampleSentence": "Show your boarding pass at the gate.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/boarding-pass.wav"
+    },
+    {
+      "id": "v-travel-8",
+      "word": "baggage claim",
+      "phonetic": "/ˈbæɡɪdʒ kleɪm/",
+      "partOfSpeech": "noun",
+      "meaning": "khu nhận hành lý",
+      "exampleSentence": "Meet at baggage claim.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/baggage-claim.wav"
+    },
+    {
+      "id": "v-travel-9",
+      "word": "immigration",
+      "phonetic": "/ˌɪmɪˈɡreɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "nhập cư",
+      "exampleSentence": "Immigration took thirty minutes.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/immigration.wav"
+    },
+    {
+      "id": "v-travel-10",
+      "word": "concierge",
+      "phonetic": "/ˌkɒnˈsjeərʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "nhân viên lễ tân",
+      "exampleSentence": "Ask the concierge for directions.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/concierge.wav"
+    },
+    {
+      "id": "v-travel-11",
+      "word": "excursion",
+      "phonetic": "/ɪkˈskɜːrʒn/",
+      "partOfSpeech": "noun",
+      "meaning": "chuyến tham quan",
+      "exampleSentence": "Join the city excursion tomorrow.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/excursion.wav"
+    },
+    {
+      "id": "v-travel-12",
+      "word": "turbulence",
+      "phonetic": "/ˈtɜːrbjələns/",
+      "partOfSpeech": "noun",
+      "meaning": "sự chập chờn",
+      "exampleSentence": "The plane experienced turbulence.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/turbulence.wav"
+    },
+    {
+      "id": "v-travel-13",
+      "word": "visa",
+      "phonetic": "/ˈviːzə/",
+      "partOfSpeech": "noun",
+      "meaning": "thị thực",
+      "exampleSentence": "Apply for a visa two weeks early.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/visa.wav"
+    },
+    {
+      "id": "v-travel-14",
+      "word": "roaming",
+      "phonetic": "/ˈroʊmɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "chuyển vùng",
+      "exampleSentence": "Enable roaming before you travel.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/roaming.wav"
+    },
+    {
+      "id": "v-travel-15",
+      "word": "souvenir",
+      "phonetic": "/ˌsuːvəˈnɪr/",
+      "partOfSpeech": "noun",
+      "meaning": "quà lưu niệm",
+      "exampleSentence": "Buy souvenirs at the market.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/souvenir.wav"
+    },
+    {
+      "id": "v-travel-16",
+      "word": "round-trip",
+      "phonetic": "/raʊnd trɪp/",
+      "partOfSpeech": "adjective",
+      "meaning": "khứ hồi",
+      "exampleSentence": "I booked a round-trip ticket.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/round-trip.wav"
+    },
+    {
+      "id": "v-travel-17",
+      "word": "check-in",
+      "phonetic": "/tʃek ɪn/",
+      "partOfSpeech": "noun",
+      "meaning": "làm thủ tục",
+      "exampleSentence": "Online check-in opens 24 hours before.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/check-in.wav"
+    },
+    {
+      "id": "v-travel-18",
+      "word": "overbooked",
+      "phonetic": "/ˌoʊvərˈbʊkt/",
+      "partOfSpeech": "adjective",
+      "meaning": "đặt quá số ghế",
+      "exampleSentence": "The flight was overbooked.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/overbooked.wav"
+    },
+    {
+      "id": "v-travel-19",
+      "word": "jet lag",
+      "phonetic": "/dʒet læɡ/",
+      "partOfSpeech": "noun",
+      "meaning": "lệch múi giờ",
+      "exampleSentence": "I have jet lag after the long flight.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/jet-lag.wav"
+    },
+    {
+      "id": "v-travel-20",
+      "word": "passport",
+      "phonetic": "/ˈpæspɔːrt/",
+      "partOfSpeech": "noun",
+      "meaning": "hộ chiếu",
+      "exampleSentence": "Keep your passport in a safe place.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/passport.wav"
+    },
+    {
+      "id": "v-travel-21",
+      "word": "terminal",
+      "phonetic": "/ˈtɜːrmɪnl/",
+      "partOfSpeech": "noun",
+      "meaning": "nhà ga",
+      "exampleSentence": "Terminal 2 handles international flights.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/terminal.wav"
+    },
+    {
+      "id": "v-travel-22",
+      "word": "shuttle",
+      "phonetic": "/ˈʃʌtl/",
+      "partOfSpeech": "noun",
+      "meaning": "xe đưa đón",
+      "exampleSentence": "Take the hotel shuttle from the airport.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/shuttle.wav"
+    },
+    {
+      "id": "v-travel-23",
+      "word": "refund",
+      "phonetic": "/ˈriːfʌnd/",
+      "partOfSpeech": "noun",
+      "meaning": "hoàn tiền",
+      "exampleSentence": "Request a refund for the canceled flight.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/refund.wav"
+    },
+    {
+      "id": "v-travel-24",
+      "word": "destination",
+      "phonetic": "/ˌdestɪˈneɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "điểm đến",
+      "exampleSentence": "Our destination is Tokyo.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/destination.wav"
+    },
+    {
+      "id": "v-travel-25",
+      "word": "expedition",
+      "phonetic": "/ˌekspəˈdɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "chuyến thám hiểm",
+      "exampleSentence": "The expedition lasted three weeks.",
+      "topic": "travel",
+      "audioUrl": "/audio/vocab/travel/expedition.wav"
+    }
+  ]
+}

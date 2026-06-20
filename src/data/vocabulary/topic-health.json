@@ -1,0 +1,257 @@
+{
+  "topic": "health",
+  "label": "Health",
+  "icon": "🏥",
+  "cards": [
+    {
+      "id": "v-health-1",
+      "word": "diagnosis",
+      "phonetic": "/ˌdaɪəɡˈnoʊsɪs/",
+      "partOfSpeech": "noun",
+      "meaning": "chẩn đoán",
+      "exampleSentence": "The diagnosis was confirmed.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/diagnosis.wav"
+    },
+    {
+      "id": "v-health-2",
+      "word": "prescription",
+      "phonetic": "/prɪˈskrɪpʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "đơn thuốc",
+      "exampleSentence": "Fill the prescription at the pharmacy.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/prescription.wav"
+    },
+    {
+      "id": "v-health-3",
+      "word": "symptom",
+      "phonetic": "/ˈsɪmptəm/",
+      "partOfSpeech": "noun",
+      "meaning": "triệu chứng",
+      "exampleSentence": "Report any new symptoms.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/symptom.wav"
+    },
+    {
+      "id": "v-health-4",
+      "word": "vaccination",
+      "phonetic": "/ˌvæksɪˈneɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "tiêm chủng",
+      "exampleSentence": "Vaccination is recommended.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/vaccination.wav"
+    },
+    {
+      "id": "v-health-5",
+      "word": "outpatient",
+      "phonetic": "/ˈaʊtpeɪʃənt/",
+      "partOfSpeech": "noun",
+      "meaning": "bệnh nhân ngoại trú",
+      "exampleSentence": "Outpatient services expanded.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/outpatient.wav"
+    },
+    {
+      "id": "v-health-6",
+      "word": "insurance coverage",
+      "phonetic": "/ɪnˈʃʊrəns ˈkʌvərɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "bảo hiểm y tế",
+      "exampleSentence": "Check your insurance coverage.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/insurance-coverage.wav"
+    },
+    {
+      "id": "v-health-7",
+      "word": "rehabilitation",
+      "phonetic": "/ˌriːəˌbɪlɪˈteɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "phục hồi chức năng",
+      "exampleSentence": "Rehabilitation takes six weeks.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/rehabilitation.wav"
+    },
+    {
+      "id": "v-health-8",
+      "word": "hygiene",
+      "phonetic": "/ˈhaɪdʒiːn/",
+      "partOfSpeech": "noun",
+      "meaning": "vệ sinh",
+      "exampleSentence": "Maintain strict hygiene.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/hygiene.wav"
+    },
+    {
+      "id": "v-health-9",
+      "word": "chronic",
+      "phonetic": "/ˈkrɒnɪk/",
+      "partOfSpeech": "adjective",
+      "meaning": "mãn tính",
+      "exampleSentence": "Manage chronic conditions.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/chronic.wav"
+    },
+    {
+      "id": "v-health-10",
+      "word": "screening",
+      "phonetic": "/ˈskriːnɪŋ/",
+      "partOfSpeech": "noun",
+      "meaning": "sàng lọc",
+      "exampleSentence": "Free health screening is offered.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/screening.wav"
+    },
+    {
+      "id": "v-health-11",
+      "word": "dosage",
+      "phonetic": "/ˈdoʊsɪdʒ/",
+      "partOfSpeech": "noun",
+      "meaning": "liều lượng",
+      "exampleSentence": "Follow the correct dosage.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/dosage.wav"
+    },
+    {
+      "id": "v-health-12",
+      "word": "allergy",
+      "phonetic": "/ˈælərdʒi/",
+      "partOfSpeech": "noun",
+      "meaning": "dị ứng",
+      "exampleSentence": "List any food allergies.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/allergy.wav"
+    },
+    {
+      "id": "v-health-13",
+      "word": "immunity",
+      "phonetic": "/ɪˈmjuːnəti/",
+      "partOfSpeech": "noun",
+      "meaning": "miễn dịch",
+      "exampleSentence": "Boost your immunity.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/immunity.wav"
+    },
+    {
+      "id": "v-health-14",
+      "word": "wellness",
+      "phonetic": "/ˈwelnəs/",
+      "partOfSpeech": "noun",
+      "meaning": "sức khỏe tổng thể",
+      "exampleSentence": "Focus on employee wellness.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/wellness.wav"
+    },
+    {
+      "id": "v-health-15",
+      "word": "epidemic",
+      "phonetic": "/ˌepɪˈdemɪk/",
+      "partOfSpeech": "noun",
+      "meaning": "dịch bệnh",
+      "exampleSentence": "Protocols were updated for the epidemic.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/epidemic.wav"
+    },
+    {
+      "id": "v-health-16",
+      "word": "surgeon",
+      "phonetic": "/ˈsɜːrdʒən/",
+      "partOfSpeech": "noun",
+      "meaning": "bác sĩ phẫu thuật",
+      "exampleSentence": "The surgeon scheduled the operation.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/surgeon.wav"
+    },
+    {
+      "id": "v-health-17",
+      "word": "pharmaceutical",
+      "phonetic": "/ˌfɑːrməˈsuːtɪkl/",
+      "partOfSpeech": "adjective",
+      "meaning": "dược phẩm",
+      "exampleSentence": "Pharmaceutical research continues.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/pharmaceutical.wav"
+    },
+    {
+      "id": "v-health-18",
+      "word": "medication",
+      "phonetic": "/ˌmedɪˈkeɪʃn/",
+      "partOfSpeech": "noun",
+      "meaning": "thuốc",
+      "exampleSentence": "Take medication with food.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/medication.wav"
+    },
+    {
+      "id": "v-health-19",
+      "word": "preventive",
+      "phonetic": "/prɪˈventɪv/",
+      "partOfSpeech": "adjective",
+      "meaning": "phòng ngừa",
+      "exampleSentence": "Preventive care reduces costs.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/preventive.wav"
+    },
+    {
+      "id": "v-health-20",
+      "word": "intensive care",
+      "phonetic": "/ɪnˈtensɪv ker/",
+      "partOfSpeech": "noun",
+      "meaning": "hồi sức",
+      "exampleSentence": "He was moved to intensive care.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/intensive-care.wav"
+    },
+    {
+      "id": "v-health-21",
+      "word": "discharge",
+      "phonetic": "/dɪsˈtʃɑːrdʒ/",
+      "partOfSpeech": "verb",
+      "meaning": "xuất viện",
+      "exampleSentence": "Patients discharge after recovery.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/discharge.wav"
+    },
+    {
+      "id": "v-health-22",
+      "word": "anesthesia",
+      "phonetic": "/ˌænəsˈθiːʒə/",
+      "partOfSpeech": "noun",
+      "meaning": "gây mê",
+      "exampleSentence": "Anesthesia will be administered.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/anesthesia.wav"
+    },
+    {
+      "id": "v-health-23",
+      "word": "contagious",
+      "phonetic": "/kənˈteɪdʒəs/",
+      "partOfSpeech": "adjective",
+      "meaning": "lây nhiễm",
+      "exampleSentence": "Stay home if contagious.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/contagious.wav"
+    },
+    {
+      "id": "v-health-24",
+      "word": "nutrient",
+      "phonetic": "/ˈnuːtriənt/",
+      "partOfSpeech": "noun",
+      "meaning": "chất dinh dưỡng",
+      "exampleSentence": "Foods rich in nutrients.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/nutrient.wav"
+    },
+    {
+      "id": "v-health-25",
+      "word": "paramedic",
+      "phonetic": "/ˌpærəˈmedɪk/",
+      "partOfSpeech": "noun",
+      "meaning": "nhân viên cấp cứu",
+      "exampleSentence": "Paramedics arrived quickly.",
+      "topic": "health",
+      "audioUrl": "/audio/vocab/health/paramedic.wav"
+    }
+  ]
+}
